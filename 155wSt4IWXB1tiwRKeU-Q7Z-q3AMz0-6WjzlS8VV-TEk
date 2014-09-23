@@ -1,0 +1,121 @@
+// API callback
+Tabletop.singleton.loadSheets({
+  "feed": {
+    "category": [
+      {
+        "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+        "scheme": "http://schemas.google.com/spreadsheets/2006"
+      }
+    ], 
+    "updated": {
+      "$t": "2014-09-23T02:24:27.261Z"
+    }, 
+    "xmlns": "http://www.w3.org/2005/Atom", 
+    "title": {
+      "$t": "Upcoming COTV Shifts", 
+      "type": "text"
+    }, 
+    "author": [
+      {
+        "name": {
+          "$t": "ethan"
+        }, 
+        "email": {
+          "$t": "ethan@boldprogressives.org"
+        }
+      }
+    ], 
+    "openSearch$startIndex": {
+      "$t": "1"
+    }, 
+    "xmlns$gs": "http://schemas.google.com/spreadsheets/2006", 
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-23T02:24:27.261Z"
+        }, 
+        "title": {
+          "$t": "Sheet1", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "Sheet1", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/cells/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
+          }, 
+          {
+            "href": "https://docs.google.com/spreadsheets/d/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/gviz/tq?gid=0&pub=1", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
+          }, 
+          {
+            "href": "https://docs.google.com/spreadsheets/d/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/export?gid=0&format=csv", 
+            "type": "text/csv", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#exportcsv"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/od6", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gs$colCount": {
+          "$t": "26"
+        }, 
+        "gs$rowCount": {
+          "$t": "1000"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/od6"
+        }
+      }
+    ], 
+    "link": [
+      {
+        "href": "https://docs.google.com/spreadsheets/d/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/pubhtml", 
+        "type": "application/atom+xml", 
+        "rel": "alternate"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#feed"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic", 
+        "type": "application/atom+xml", 
+        "rel": "http://schemas.google.com/g/2005#post"
+      }, 
+      {
+        "href": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic?alt=json-in-script", 
+        "type": "application/atom+xml", 
+        "rel": "self"
+      }
+    ], 
+    "openSearch$totalResults": {
+      "$t": "1"
+    }, 
+    "id": {
+      "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic"
+    }
+  }, 
+  "version": "1.0", 
+  "encoding": "UTF-8"
+});
