@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-09-23T15:57:10.387Z"
+      "$t": "2014-09-23T16:07:32.577Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -102,7 +102,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -143,7 +143,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -184,7 +184,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -225,7 +225,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -266,7 +266,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -307,7 +307,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -348,7 +348,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -389,7 +389,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -430,7 +430,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -471,7 +471,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -512,7 +512,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
+          "$t": "2014-09-23T16:07:32.577Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -544,51 +544,10 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 6pm - 8pm ET"
         }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-09-23T15:57:10.387Z"
-        }, 
-        "gsx$time": {
-          "$t": "19:00"
-        }, 
-        "title": {
-          "$t": "2014-11-04", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "time: 19:00, candidate: none, description: magical election day broohahah", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-11-04"
-        }, 
-        "gsx$candidate": {
-          "$t": "none"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
-        }, 
-        "gsx$description": {
-          "$t": "magical election day broohahah"
-        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "13"
+      "$t": "12"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
