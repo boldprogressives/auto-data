@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2014-09-23T16:07:32.577Z"
+      "$t": "2014-09-25T04:32:26.699Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2014-09-23T16:07:32.577Z"
+          "$t": "2014-09-25T04:32:26.699Z"
         }, 
         "title": {
           "$t": "Sheet1", 
@@ -80,7 +80,7 @@ Tabletop.singleton.loadSheets({
           "$t": "26"
         }, 
         "gs$rowCount": {
-          "$t": "1000"
+          "$t": "992"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/od6"
