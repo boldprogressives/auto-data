@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-09-25T15:40:55.058Z"
+      "$t": "2014-09-25T17:22:51.915Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,17 +61,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-09-25", 
+          "$t": "2014-09-26", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: coleman, description: Bonnie Watson Coleman (NJ-12), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -82,16 +82,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-25"
+          "$t": "2014-09-26"
         }, 
         "gsx$candidate": {
-          "$t": "coleman"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$description": {
-          "$t": "Bonnie Watson Coleman (NJ-12), 12pm - 2pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
         }
       }, 
       {
@@ -102,17 +102,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-09-25", 
+          "$t": "2014-09-26", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: coleman, description: Bonnie Watson Coleman (NJ-12), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -123,16 +123,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-25"
+          "$t": "2014-09-26"
         }, 
         "gsx$candidate": {
-          "$t": "coleman"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
         "gsx$description": {
-          "$t": "Bonnie Watson Coleman (NJ-12), 2pm - 4pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET"
         }
       }, 
       {
@@ -143,17 +143,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-09-25", 
+          "$t": "2014-09-26", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -164,10 +164,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-25"
+          "$t": "2014-09-26"
         }, 
         "gsx$candidate": {
-          "$t": "clements"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
@@ -184,17 +184,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-09-25", 
+          "$t": "2014-09-26", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -205,16 +205,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-25"
+          "$t": "2014-09-26"
         }, 
         "gsx$candidate": {
-          "$t": "clements"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 6pm - 8pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, 6pm - 8pm ET"
         }
       }, 
       {
@@ -225,17 +225,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-09-26", 
+          "$t": "2014-09-27", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -246,16 +246,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-26"
+          "$t": "2014-09-27"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
         }
       }, 
       {
@@ -266,17 +266,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-09-26", 
+          "$t": "2014-09-27", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -287,16 +287,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-26"
+          "$t": "2014-09-27"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
         }, 
         "gsx$description": {
-          "$t": "TBD, 2pm - 4pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET"
         }
       }, 
       {
@@ -307,17 +307,17 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-09-26", 
+          "$t": "2014-09-27", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -328,13 +328,341 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-26"
+          "$t": "2014-09-27"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-09-27", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: Michael Eggman, description: Michael Eggman, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-27"
+        }, 
+        "gsx$candidate": {
+          "$t": "Michael Eggman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+        }, 
+        "gsx$description": {
+          "$t": "Michael Eggman, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-09-28", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-28"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-09-28", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-28"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-09-28", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: Shenna Bellows, description: Shenna Bellows, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-28"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-09-28", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: Shenna Bellows, description: Shenna Bellows, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-28"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-09-29", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: Shenna Bellows, description: Shenna Bellows, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-29"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-09-29", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: Shenna Bellows, description: Shenna Bellows, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-29"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-09-29", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: TBD, description: TBD, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-29"
+        }, 
+        "gsx$candidate": {
+          "$t": "TBD"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9"
         }, 
         "gsx$description": {
           "$t": "TBD, 4pm - 6pm ET"
@@ -348,42 +676,534 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-25T15:40:55.058Z"
+          "$t": "2014-09-25T17:22:51.915Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-09-26", 
+          "$t": "2014-09-29", 
           "type": "text"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: TBD, description: TBD, 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
         ], 
         "gsx$date": {
-          "$t": "2014-09-26"
+          "$t": "2014-09-29"
         }, 
         "gsx$candidate": {
-          "$t": "clements"
+          "$t": "TBD"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 6pm - 8pm ET"
+          "$t": "TBD, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-09-30", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-30"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-09-30", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-30"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-09-30", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-30"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-09-30", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: Shenna Bellows, description: Shenna Bellows, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-30"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-01", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-01"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-01", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-01"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET , 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-01", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-01"
+        }, 
+        "gsx$candidate": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-01", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: Paul Clemetns, description: Paul Clemetns, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-01"
+        }, 
+        "gsx$candidate": {
+          "$t": "Paul Clemetns"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya"
+        }, 
+        "gsx$description": {
+          "$t": "Paul Clemetns, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: Bonnie Watson Coleman, description: Bonnie Watson Coleman, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "Bonnie Watson Coleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: Bonnie Watson Coleman, description: Bonnie Watson Coleman, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "Bonnie Watson Coleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: Bonnie Watson Coleman, description: Bonnie Watson Coleman, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "Bonnie Watson Coleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-25T17:22:51.915Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: Shenna Bellows, description: Shenna Bellows, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/df9om", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "Shenna Bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/df9om"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 6pm - 8pm ET"
         }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "8"
+      "$t": "28"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
