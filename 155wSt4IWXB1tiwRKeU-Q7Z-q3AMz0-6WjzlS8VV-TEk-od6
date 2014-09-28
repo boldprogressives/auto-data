@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-09-27T21:52:11.609Z"
+      "$t": "2014-09-28T17:55:59.502Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -102,7 +102,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -143,89 +143,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2014-09-29", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: bellows, description: Shenna Bellows, 12pm - 2pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-09-29"
-        }, 
-        "gsx$candidate": {
-          "$t": "bellows"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
-        }, 
-        "gsx$description": {
-          "$t": "Shenna Bellows, 12pm - 2pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-09-29", 
-          "type": "text"
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: bellows, description: Shenna Bellows, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-09-29"
-        }, 
-        "gsx$candidate": {
-          "$t": "bellows"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
-        }, 
-        "gsx$description": {
-          "$t": "Shenna Bellows, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -240,7 +158,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -252,7 +170,7 @@ Tabletop.singleton.loadSheet({
           "$t": "bellows"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$description": {
           "$t": "Shenna Bellows, 4pm - 6pm ET"
@@ -266,7 +184,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -281,7 +199,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -293,7 +211,7 @@ Tabletop.singleton.loadSheet({
           "$t": "bellows"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$description": {
           "$t": "Shenna Bellows, 6pm - 8pm ET"
@@ -307,7 +225,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -322,7 +240,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -334,7 +252,7 @@ Tabletop.singleton.loadSheet({
           "$t": "none"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
           "$t": "TBD, 4pm - 6pm ET"
@@ -348,7 +266,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -363,7 +281,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -375,7 +293,7 @@ Tabletop.singleton.loadSheet({
           "$t": "none"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
         }, 
         "gsx$description": {
           "$t": "TBD, 6pm - 8pm ET"
@@ -389,7 +307,89 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-09-29", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: bellows, description: Shenna Bellows, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-29"
+        }, 
+        "gsx$candidate": {
+          "$t": "bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-28T17:55:59.502Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-09-29", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: bellows, description: Shenna Bellows, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-09-29"
+        }, 
+        "gsx$candidate": {
+          "$t": "bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -430,7 +430,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -471,7 +471,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -512,7 +512,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -553,7 +553,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -594,7 +594,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -635,7 +635,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -676,7 +676,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -717,7 +717,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -758,7 +758,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -799,7 +799,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -840,7 +840,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -881,7 +881,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -922,7 +922,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -963,7 +963,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1004,7 +1004,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1045,7 +1045,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1086,7 +1086,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1127,7 +1127,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1168,7 +1168,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1209,7 +1209,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1250,7 +1250,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1291,7 +1291,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1332,7 +1332,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1373,7 +1373,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1414,7 +1414,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1455,7 +1455,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1496,7 +1496,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-27T21:52:11.609Z"
+          "$t": "2014-09-28T17:55:59.502Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
