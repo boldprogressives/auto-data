@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-09-30T01:44:13.722Z"
+      "$t": "2014-09-30T20:29:36.074Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -69,6 +69,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-09-30", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 12pm - 2pm ET", 
@@ -102,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -110,6 +113,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-09-30", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
@@ -143,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -151,6 +157,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-09-30", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
@@ -184,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -192,6 +201,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-09-30", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows, 6pm - 8pm ET", 
@@ -225,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -233,6 +245,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-01", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
@@ -266,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -274,6 +289,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-01", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
@@ -307,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -315,6 +333,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-01", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
@@ -348,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -356,6 +377,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-01", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
@@ -389,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -397,6 +421,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-02", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 12pm - 2pm ET", 
@@ -430,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -438,6 +465,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-02", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 2pm - 4pm ET", 
@@ -471,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -479,6 +509,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-02", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 4pm - 6pm ET", 
@@ -512,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -520,6 +553,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-02", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows, 6pm - 8pm ET", 
@@ -553,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -561,6 +597,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-03", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
@@ -594,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -602,6 +641,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-03", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
@@ -635,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -643,6 +685,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-03", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
@@ -676,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -684,6 +729,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-03", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 6pm - 8pm ET", 
@@ -717,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -725,6 +773,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-04", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
@@ -758,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -766,6 +817,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-04", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET", 
@@ -799,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -807,6 +861,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-04", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET, 4pm - 6pm ET", 
@@ -840,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -848,6 +905,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-05", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET", 
@@ -881,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -889,6 +949,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-05", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
@@ -922,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -930,6 +993,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-05", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET", 
@@ -963,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -971,6 +1037,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-06", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 12:00, candidate: grayson, description: Alan Grayson, 12pm - 2pm ET", 
@@ -1004,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1012,6 +1081,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-06", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET", 
@@ -1045,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1053,6 +1125,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-07", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
@@ -1086,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1094,6 +1169,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-07", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET", 
@@ -1127,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1135,6 +1213,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-09", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
@@ -1168,7 +1249,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1176,6 +1257,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-09", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET", 
@@ -1209,7 +1293,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-09-30T01:44:13.722Z"
+          "$t": "2014-09-30T20:29:36.074Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1217,6 +1301,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-11", 
           "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
         }, 
         "content": {
           "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
