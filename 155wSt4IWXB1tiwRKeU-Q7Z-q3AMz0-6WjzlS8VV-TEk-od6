@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-01T18:07:20.026Z"
+      "$t": "2014-10-01T22:19:59.842Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,20 +61,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-01", 
+          "$t": "2014-10-02", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 12pm - 2pm ET"
+          "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: watsoncoleman, description: Bonnie Watson Coleman (NJ-12), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -85,13 +85,189 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-01"
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "watsoncoleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman (NJ-12), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: watsoncoleman, description: Bonnie Watson Coleman (NJ-12), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "watsoncoleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman (NJ-12), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: watsoncoleman, description: Bonnie Watson Coleman (NJ-12), 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "watsoncoleman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
+        }, 
+        "gsx$description": {
+          "$t": "Bonnie Watson Coleman (NJ-12), 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-02", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "bellows"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+        }, 
+        "gsx$description": {
+          "$t": "Shenna Bellows (ME-Sen), 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
@@ -105,40 +281,40 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-01", 
+          "$t": "2014-10-03", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-01"
+          "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
           "$t": "clements"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 2pm - 4pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
         }
       }, 
       {
@@ -149,37 +325,37 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-10-01", 
+          "$t": "2014-10-03", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 4pm - 6pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-01"
+          "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET"
@@ -193,196 +369,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-01", 
+          "$t": "2014-10-03", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-01"
-        }, 
-        "gsx$candidate": {
-          "$t": "clements"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2014-10-02", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 12pm - 2pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-02"
-        }, 
-        "gsx$candidate": {
-          "$t": "watsoncoleman"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
-        }, 
-        "gsx$description": {
-          "$t": "Bonnie Watson Coleman, 12pm - 2pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-02", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-02"
-        }, 
-        "gsx$candidate": {
-          "$t": "watsoncoleman"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
-        }, 
-        "gsx$description": {
-          "$t": "Bonnie Watson Coleman, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "16:00"
-        }, 
-        "title": {
-          "$t": "2014-10-02", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 16:00, candidate: watsoncoleman, description: Bonnie Watson Coleman, 4pm - 6pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-02"
-        }, 
-        "gsx$candidate": {
-          "$t": "watsoncoleman"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
-        }, 
-        "gsx$description": {
-          "$t": "Bonnie Watson Coleman, 4pm - 6pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-02", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -393,16 +393,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-02"
+          "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
-          "$t": "bellows"
+          "$t": "clements"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
         }, 
         "gsx$description": {
-          "$t": "Shenna Bellows, 6pm - 8pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 6pm - 8pm ET"
         }
       }, 
       {
@@ -413,20 +413,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-03", 
+          "$t": "2014-10-04", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 12pm - 2pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -437,7 +437,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-03"
+          "$t": "2014-10-04"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -457,20 +457,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-03", 
+          "$t": "2014-10-04", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -481,189 +481,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-03"
+          "$t": "2014-10-04"
         }, 
         "gsx$candidate": {
-          "$t": "clements"
+          "$t": "mayday"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "16:00"
-        }, 
-        "title": {
-          "$t": "2014-10-03", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 4pm - 6pm ET"
-        }, 
-        "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements, 4pm - 6pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-03"
-        }, 
-        "gsx$candidate": {
-          "$t": "mayday"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-03", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-03"
-        }, 
-        "gsx$candidate": {
-          "$t": "clements"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2014-10-04", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 12pm - 2pm ET"
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements, 12pm - 2pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-04"
-        }, 
-        "gsx$candidate": {
-          "$t": "mayday"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-04", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 2pm - 4pm ET"
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET, specialdescription: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-04"
-        }, 
-        "gsx$candidate": {
-          "$t": "mayday"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 2pm - 4pm ET"
@@ -677,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -690,12 +514,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -707,10 +531,10 @@ Tabletop.singleton.loadSheet({
           "$t": "clements"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 4pm - 6pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }
       }, 
       {
@@ -721,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -731,15 +555,15 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 12pm - 2pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -751,7 +575,7 @@ Tabletop.singleton.loadSheet({
           "$t": "mayday"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
@@ -765,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -778,12 +602,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements, 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -795,10 +619,10 @@ Tabletop.singleton.loadSheet({
           "$t": "clements"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements, 2pm - 4pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
         }
       }, 
       {
@@ -809,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -819,15 +643,15 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Fred Upton's opponent Paul Clements, 4pm - 6pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -839,7 +663,7 @@ Tabletop.singleton.loadSheet({
           "$t": "mayday"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET"
@@ -853,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -866,12 +690,12 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: grayson, description: Alan Grayson, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: grayson, description: Alan Grayson (FL-9), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -883,10 +707,10 @@ Tabletop.singleton.loadSheet({
           "$t": "grayson"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cx0b9"
         }, 
         "gsx$description": {
-          "$t": "Alan Grayson, 12pm - 2pm ET"
+          "$t": "Alan Grayson (FL-9), 12pm - 2pm ET"
         }
       }, 
       {
@@ -897,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -915,7 +739,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -927,7 +751,7 @@ Tabletop.singleton.loadSheet({
           "$t": "none"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney"
         }, 
         "gsx$description": {
           "$t": "TBD, 2pm - 4pm ET"
@@ -941,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -959,7 +783,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -971,7 +795,7 @@ Tabletop.singleton.loadSheet({
           "$t": "none"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/db1zf"
         }, 
         "gsx$description": {
           "$t": "TBD, 4pm - 6pm ET"
@@ -985,13 +809,189 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
           "$t": "2014-10-06", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: franken, description: Al Franken (MN-Sen), 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-06"
+        }, 
+        "gsx$candidate": {
+          "$t": "franken"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
+        }, 
+        "gsx$description": {
+          "$t": "Al Franken (MN-Sen), 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-07", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley  (OR-Sen), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-07"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley  (OR-Sen), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-07", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-07"
+        }, 
+        "gsx$candidate": {
+          "$t": "franken"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": "Al Franken, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-09"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T22:19:59.842Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1009,7 +1009,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-06"
+          "$t": "2014-10-09"
         }, 
         "gsx$candidate": {
           "$t": "franken"
@@ -1029,183 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-07", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-07"
-        }, 
-        "gsx$candidate": {
-          "$t": "merkley"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
-        }, 
-        "gsx$description": {
-          "$t": "Jeff Merkley, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-07", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": "6pm - 8pm ET"
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-07"
-        }, 
-        "gsx$candidate": {
-          "$t": "franken"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya"
-        }, 
-        "gsx$description": {
-          "$t": "Al Franken, 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-09", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-09"
-        }, 
-        "gsx$candidate": {
-          "$t": "merkley"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair"
-        }, 
-        "gsx$description": {
-          "$t": "Jeff Merkley, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-09", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": "6pm - 8pm ET"
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-09"
-        }, 
-        "gsx$candidate": {
-          "$t": "franken"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34"
-        }, 
-        "gsx$description": {
-          "$t": "Al Franken, 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T18:07:20.026Z"
+          "$t": "2014-10-01T22:19:59.842Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1223,7 +1047,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -1235,7 +1059,7 @@ Tabletop.singleton.loadSheet({
           "$t": "merkley"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
         }, 
         "gsx$description": {
           "$t": "Jeff Merkley, 2pm - 4pm ET"
@@ -1243,7 +1067,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "27"
+      "$t": "23"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
