@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-01T13:29:55.469Z"
+      "$t": "2014-10-01T13:31:35.077Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -897,7 +897,95 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-06", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-06"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T13:31:35.077Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-06", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-06"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -915,101 +1003,13 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-06"
-        }, 
-        "gsx$candidate": {
-          "$t": "franken"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
-        }, 
-        "gsx$description": {
-          "$t": "Al Franken, 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-07", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-07"
-        }, 
-        "gsx$candidate": {
-          "$t": "merkley"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
-        }, 
-        "gsx$description": {
-          "$t": "Jeff Merkley, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-07", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
             "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-07"
+          "$t": "2014-10-06"
         }, 
         "gsx$candidate": {
           "$t": "franken"
@@ -1029,13 +1029,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1053,7 +1053,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
           "$t": "merkley"
@@ -1073,13 +1073,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1097,7 +1097,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
           "$t": "franken"
@@ -1117,13 +1117,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-01T13:29:55.469Z"
+          "$t": "2014-10-01T13:31:35.077Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-11", 
+          "$t": "2014-10-09", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1141,7 +1141,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-11"
+          "$t": "2014-10-09"
         }, 
         "gsx$candidate": {
           "$t": "merkley"
@@ -1152,10 +1152,98 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Jeff Merkley, 2pm - 4pm ET"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T13:31:35.077Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: franken, description: Al Franken, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-09"
+        }, 
+        "gsx$candidate": {
+          "$t": "franken"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34"
+        }, 
+        "gsx$description": {
+          "$t": "Al Franken, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-01T13:31:35.077Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-11", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-11"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley, 2pm - 4pm ET"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "25"
+      "$t": "27"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
