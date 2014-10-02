@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-02T21:03:39.115Z"
+      "$t": "2014-10-02T21:34:38.741Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -74,7 +74,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -88,13 +88,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
-          "$t": "mayday"
+          "$t": "bellows"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 12pm - 2pm ET"
+          "$t": "Shenna Bellows (ME-Sen), 12pm - 2pm ET"
         }
       }, 
       {
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -162,7 +162,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: takano, description: Fred Upton's opponent Paul Clements (MI-6) via Lawrence Lessig's Mayday.US, 4pm - 6pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -176,7 +176,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-03"
         }, 
         "gsx$candidate": {
-          "$t": "mayday"
+          "$t": "takano"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-02T21:03:39.115Z"
+          "$t": "2014-10-02T21:34:38.741Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
