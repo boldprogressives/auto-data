@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-04T15:40:06.554Z"
+      "$t": "2014-10-04T15:41:26.622Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1249,7 +1249,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1293,7 +1293,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1337,7 +1337,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1381,7 +1381,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-04T15:40:06.554Z"
+          "$t": "2014-10-04T15:41:26.622Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1394,7 +1394,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: clements", 
+          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1414,12 +1414,232 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/djhdx"
         }, 
         "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-04T15:41:26.622Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-11", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
           "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dw4je", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-11"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dw4je"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-04T15:41:26.622Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-12", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: weiland, description: Rick Weiland (SD-Sen), 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dxj3v", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-12"
+        }, 
+        "gsx$candidate": {
+          "$t": "weiland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dxj3v"
+        }, 
+        "gsx$description": {
+          "$t": "Rick Weiland (SD-Sen), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-04T15:41:26.622Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-12", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dyxo8", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-12"
+        }, 
+        "gsx$candidate": {
+          "$t": "clements"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dyxo8"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-04T15:41:26.622Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-12", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: weiland, description: Rick Weiland (SD-Sen), 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-12"
+        }, 
+        "gsx$candidate": {
+          "$t": "weiland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p"
+        }, 
+        "gsx$description": {
+          "$t": "Rick Weiland (SD-Sen), 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-04T15:41:26.622Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-12", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: weiland, description: Rick Weiland (SD-Sen), 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-12"
+        }, 
+        "gsx$candidate": {
+          "$t": "weiland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q"
+        }, 
+        "gsx$description": {
+          "$t": "Rick Weiland (SD-Sen), 6pm - 8pm ET"
         }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "31"
+      "$t": "36"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
