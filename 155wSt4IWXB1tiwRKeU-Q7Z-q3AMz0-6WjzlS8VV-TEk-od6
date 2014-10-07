@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-07T12:17:42.219Z"
+      "$t": "2014-10-07T13:49:23.878Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,20 +61,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-08", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: grayson, description: Alan Grayson (FL-9), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -85,16 +85,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-08"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
-          "$t": "bellows"
+          "$t": "grayson"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$description": {
-          "$t": "Shenna Bellows (ME-Sen), 12pm - 2pm ET"
+          "$t": "Alan Grayson (FL-9), 12pm - 2pm ET"
         }
       }, 
       {
@@ -105,20 +105,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-08", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -129,16 +129,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-08"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
-          "$t": "clements"
+          "$t": "merkley"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
         "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
         }
       }, 
       {
@@ -149,20 +149,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-10-08", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: weiland, description: Rick Weiland (SD-Sen), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -173,16 +173,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-08"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
-          "$t": "weiland"
+          "$t": "clements"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$description": {
-          "$t": "Rick Weiland (SD-Sen), 4pm - 6pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
         }
       }, 
       {
@@ -193,20 +193,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-08", 
+          "$t": "2014-10-07", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "6pm - 8pm ET"
+          "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: franken, description: Al Franken (MN-Sen), 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: franken, description: Al Franken (MN-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -217,7 +217,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-08"
+          "$t": "2014-10-07"
         }, 
         "gsx$candidate": {
           "$t": "franken"
@@ -237,20 +237,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-08", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: grayson, description: Alan Grayson (FL-9), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -261,16 +261,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-08"
         }, 
         "gsx$candidate": {
-          "$t": "grayson"
+          "$t": "bellows"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
-          "$t": "Alan Grayson (FL-9), 12pm - 2pm ET"
+          "$t": "Shenna Bellows (ME-Sen), 12pm - 2pm ET"
         }
       }, 
       {
@@ -281,20 +281,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-08", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -305,16 +305,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-08"
         }, 
         "gsx$candidate": {
-          "$t": "merkley"
+          "$t": "clements"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
         }, 
         "gsx$description": {
-          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
         }
       }, 
       {
@@ -325,20 +325,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-08", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: weiland, description: Rick Weiland (SD-Sen), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -349,16 +349,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-08"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "weiland"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
         }, 
         "gsx$description": {
-          "$t": "TBD, 4pm - 6pm ET"
+          "$t": "Rick Weiland (SD-Sen), 4pm - 6pm ET"
         }
       }, 
       {
@@ -369,13 +369,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-09", 
+          "$t": "2014-10-08", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -393,7 +393,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-09"
+          "$t": "2014-10-08"
         }, 
         "gsx$candidate": {
           "$t": "franken"
@@ -413,13 +413,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-10", 
+          "$t": "2014-10-09", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -437,7 +437,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-10"
+          "$t": "2014-10-09"
         }, 
         "gsx$candidate": {
           "$t": "grayson"
@@ -457,7 +457,183 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-09"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-09"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-09", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: franken, description: Al Franken (MN-Sen), 6pm - 8pm ET, specialdescription: 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-09"
+        }, 
+        "gsx$candidate": {
+          "$t": "franken"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly"
+        }, 
+        "gsx$description": {
+          "$t": "Al Franken (MN-Sen), 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-10", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: grayson, description: Alan Grayson (FL-9), 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-10"
+        }, 
+        "gsx$candidate": {
+          "$t": "grayson"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
+        }, 
+        "gsx$description": {
+          "$t": "Alan Grayson (FL-9), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -475,7 +651,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -487,7 +663,7 @@ Tabletop.singleton.loadSheet({
           "$t": "weiland"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
         }, 
         "gsx$description": {
           "$t": "Rick Weiland (SD-Sen), 2pm -4pm ET"
@@ -501,189 +677,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
           "$t": "2014-10-10", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-10"
-        }, 
-        "gsx$candidate": {
-          "$t": "clements"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
-        }, 
-        "gsx$description": {
-          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-10", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: weiland, description: Rick Weiland (SD-Sen), 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-10"
-        }, 
-        "gsx$candidate": {
-          "$t": "weiland"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cssly"
-        }, 
-        "gsx$description": {
-          "$t": "Rick Weiland (SD-Sen), 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2014-10-11", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: weiland, description: Rick Weiland (SD-Sen), 12pm - 2pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-11"
-        }, 
-        "gsx$candidate": {
-          "$t": "weiland"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
-        }, 
-        "gsx$description": {
-          "$t": "Rick Weiland (SD-Sen), 12pm - 2pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-11", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-11"
-        }, 
-        "gsx$candidate": {
-          "$t": "merkley"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
-        }, 
-        "gsx$description": {
-          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "16:00"
-        }, 
-        "title": {
-          "$t": "2014-10-11", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -701,7 +701,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-11"
+          "$t": "2014-10-10"
         }, 
         "gsx$candidate": {
           "$t": "clements"
@@ -721,20 +721,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-11", 
+          "$t": "2014-10-10", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: weiland, description: Rick Weiland (SD-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -745,16 +745,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-11"
+          "$t": "2014-10-10"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "weiland"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d9ney"
         }, 
         "gsx$description": {
-          "$t": "TBD, 6pm - 8pm ET"
+          "$t": "Rick Weiland (SD-Sen), 6pm - 8pm ET"
         }
       }, 
       {
@@ -765,13 +765,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-12", 
+          "$t": "2014-10-11", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -789,7 +789,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-12"
+          "$t": "2014-10-11"
         }, 
         "gsx$candidate": {
           "$t": "weiland"
@@ -809,7 +809,183 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-11", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-11"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-11", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-11"
+        }, 
+        "gsx$candidate": {
+          "$t": "clements"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6), 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-11", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-11"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-12", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: weiland, description: Rick Weiland (SD-Sen), 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-12"
+        }, 
+        "gsx$candidate": {
+          "$t": "weiland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+        }, 
+        "gsx$description": {
+          "$t": "Rick Weiland (SD-Sen), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -827,7 +1003,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -839,7 +1015,7 @@ Tabletop.singleton.loadSheet({
           "$t": "clements"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4"
         }, 
         "gsx$description": {
           "$t": "Fred Upton's opponent Paul Clements (MI-6), 2pm - 4pm ET"
@@ -853,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -871,7 +1047,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -883,7 +1059,7 @@ Tabletop.singleton.loadSheet({
           "$t": "weiland"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
         }, 
         "gsx$description": {
           "$t": "Rick Weiland (SD-Sen), 4pm - 6pm ET"
@@ -897,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -915,7 +1091,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -927,7 +1103,7 @@ Tabletop.singleton.loadSheet({
           "$t": "weiland"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya"
         }, 
         "gsx$description": {
           "$t": "Rick Weiland (SD-Sen), 6pm - 8pm ET"
@@ -941,189 +1117,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
           "$t": "2014-10-13", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-13"
-        }, 
-        "gsx$candidate": {
-          "$t": "none"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
-        }, 
-        "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2014-10-13", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-13"
-        }, 
-        "gsx$candidate": {
-          "$t": "none"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4"
-        }, 
-        "gsx$description": {
-          "$t": "TBD, 2pm - 4pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "16:00"
-        }, 
-        "title": {
-          "$t": "2014-10-13", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-13"
-        }, 
-        "gsx$candidate": {
-          "$t": "none"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
-        }, 
-        "gsx$description": {
-          "$t": "TBD, 4pm - 6pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "18:00"
-        }, 
-        "title": {
-          "$t": "2014-10-13", 
-          "type": "text"
-        }, 
-        "gsx$specialdescription": {
-          "$t": ""
-        }, 
-        "content": {
-          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
-          "type": "text"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2014-10-13"
-        }, 
-        "gsx$candidate": {
-          "$t": "none"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya"
-        }, 
-        "gsx$description": {
-          "$t": "TBD, 6pm - 8pm ET"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2014-10-14", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1141,7 +1141,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-14"
+          "$t": "2014-10-13"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1161,13 +1161,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-14", 
+          "$t": "2014-10-13", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1185,7 +1185,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-14"
+          "$t": "2014-10-13"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1205,13 +1205,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-10-14", 
+          "$t": "2014-10-13", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1229,7 +1229,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-14"
+          "$t": "2014-10-13"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1249,13 +1249,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-14", 
+          "$t": "2014-10-13", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1273,7 +1273,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-14"
+          "$t": "2014-10-13"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1293,13 +1293,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "2014-10-15", 
+          "$t": "2014-10-14", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1317,7 +1317,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-15"
+          "$t": "2014-10-14"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1337,13 +1337,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "2014-10-15", 
+          "$t": "2014-10-14", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1361,7 +1361,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-15"
+          "$t": "2014-10-14"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1381,13 +1381,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "2014-10-15", 
+          "$t": "2014-10-14", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1405,7 +1405,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-15"
+          "$t": "2014-10-14"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1425,13 +1425,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-07T12:17:42.219Z"
+          "$t": "2014-10-07T13:49:23.878Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "2014-10-15", 
+          "$t": "2014-10-14", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1449,7 +1449,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2014-10-15"
+          "$t": "2014-10-14"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1460,10 +1460,186 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "TBD, 6pm - 8pm ET"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-15", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dxj3v", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-15"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dxj3v"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-15", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dyxo8", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-15"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dyxo8"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-15", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-15"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-07T13:49:23.878Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-15", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-15"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 6pm - 8pm ET"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "32"
+      "$t": "36"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
