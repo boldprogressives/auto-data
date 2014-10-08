@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-08T18:09:16.418Z"
+      "$t": "2014-10-08T19:37:25.789Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -250,7 +250,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: watsoncoleman, description: Bonnie Watson Coleman (NJ-12), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -264,13 +264,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-09"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "watsoncoleman"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
-          "$t": "TBD, 4pm - 6pm ET"
+          "$t": "Bonnie Watson Coleman (NJ-12), 4pm - 6pm ET"
         }
       }, 
       {
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -646,7 +646,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: franken, description: Al Franken (MN-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -660,13 +660,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-11"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "franken"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cvlqs"
         }, 
         "gsx$description": {
-          "$t": "TBD, 6pm - 8pm ET"
+          "$t": "Al Franken (MN-Sen), 6pm - 8pm ET"
         }
       }, 
       {
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1249,7 +1249,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1293,7 +1293,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1337,7 +1337,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-08T18:09:16.418Z"
+          "$t": "2014-10-08T19:37:25.789Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
