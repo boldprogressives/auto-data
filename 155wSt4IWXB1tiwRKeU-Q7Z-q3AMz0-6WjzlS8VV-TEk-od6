@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-15T21:07:18.896Z"
+      "$t": "2014-10-15T23:48:05.019Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -250,7 +250,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: franken, description: Al Franken (MN-Sen), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -264,13 +264,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-17"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "franken"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Al Franken (MN-Sen), 12pm - 2pm ET"
         }
       }, 
       {
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -426,7 +426,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: franken, description: Al Franken (MN-Sen), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -440,13 +440,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-18"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "franken"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Al Franken (MN-Sen), 12pm - 2pm ET"
         }
       }, 
       {
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -602,7 +602,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: franken, description: Al Franken (MN-Sen), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -616,13 +616,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-19"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "franken"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cu76f"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Al Franken (MN-Sen), 12pm - 2pm ET"
         }
       }, 
       {
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -910,7 +910,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -924,13 +924,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-20"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "clements"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
         }, 
         "gsx$description": {
-          "$t": "TBD, 6pm - 8pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET"
         }
       }, 
       {
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -998,7 +998,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1012,13 +1012,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-21"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "clements"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 12pm - 2pm ET"
         }
       }, 
       {
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1249,7 +1249,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1293,7 +1293,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1337,7 +1337,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1350,7 +1350,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: none, description: TBD, 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: grayson, description: Alan Grayson (FL-9), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1364,13 +1364,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "grayson"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/di2tg"
         }, 
         "gsx$description": {
-          "$t": "TBD, 6pm - 8pm ET"
+          "$t": "Alan Grayson (FL-9), 6pm - 8pm ET"
         }
       }, 
       {
@@ -1381,7 +1381,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1394,7 +1394,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: none, description: TBD, 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: takano, description: Mark Takano (CA-41), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1408,13 +1408,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "takano"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/djhdx"
         }, 
         "gsx$description": {
-          "$t": "TBD, 8pm - 10pm ET"
+          "$t": "Mark Takano (CA-41), 8pm - 10pm ET"
         }
       }, 
       {
@@ -1425,7 +1425,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1469,7 +1469,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1513,7 +1513,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1557,7 +1557,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1601,7 +1601,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-15T21:07:18.896Z"
+          "$t": "2014-10-15T23:48:05.019Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
