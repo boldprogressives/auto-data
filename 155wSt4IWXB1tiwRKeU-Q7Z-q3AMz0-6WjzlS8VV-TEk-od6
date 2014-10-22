@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-22T00:11:41.820Z"
+      "$t": "2014-10-22T00:49:06.892Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,13 +61,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -85,7 +85,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -105,13 +105,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -129,7 +129,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -149,13 +149,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -173,7 +173,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "watsoncoleman"
@@ -193,13 +193,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -217,7 +217,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "grayson"
@@ -237,13 +237,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -261,7 +261,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "takano"
@@ -281,13 +281,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/22/2014", 
+          "$t": "2014-10-22", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -305,7 +305,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/22/2014"
+          "$t": "2014-10-22"
         }, 
         "gsx$candidate": {
           "$t": "weiland"
@@ -325,13 +325,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -349,7 +349,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "watsoncoleman"
@@ -369,13 +369,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -393,7 +393,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -413,13 +413,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -437,7 +437,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -457,13 +457,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -481,7 +481,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -501,13 +501,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -525,7 +525,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "udall"
@@ -545,13 +545,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/23/2014", 
+          "$t": "2014-10-23", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -569,7 +569,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/23/2014"
+          "$t": "2014-10-23"
         }, 
         "gsx$candidate": {
           "$t": "weiland"
@@ -589,13 +589,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "10/24/2014", 
+          "$t": "2014-10-24", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -613,7 +613,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/24/2014"
+          "$t": "2014-10-24"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -633,13 +633,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "10/24/2014", 
+          "$t": "2014-10-24", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -657,7 +657,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/24/2014"
+          "$t": "2014-10-24"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -677,13 +677,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "10/24/2014", 
+          "$t": "2014-10-24", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -701,7 +701,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/24/2014"
+          "$t": "2014-10-24"
         }, 
         "gsx$candidate": {
           "$t": "westlund"
@@ -721,13 +721,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "10/24/2014", 
+          "$t": "2014-10-24", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -745,7 +745,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/24/2014"
+          "$t": "2014-10-24"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -765,13 +765,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/24/2014", 
+          "$t": "2014-10-24", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -789,7 +789,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/24/2014"
+          "$t": "2014-10-24"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -809,13 +809,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "10/25/2014", 
+          "$t": "2014-10-25", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -833,7 +833,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/25/2014"
+          "$t": "2014-10-25"
         }, 
         "gsx$candidate": {
           "$t": "udall"
@@ -853,13 +853,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "10/25/2014", 
+          "$t": "2014-10-25", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -877,7 +877,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/25/2014"
+          "$t": "2014-10-25"
         }, 
         "gsx$candidate": {
           "$t": "takano"
@@ -897,13 +897,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "10/25/2014", 
+          "$t": "2014-10-25", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -921,7 +921,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/25/2014"
+          "$t": "2014-10-25"
         }, 
         "gsx$candidate": {
           "$t": "clements"
@@ -941,13 +941,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "10/25/2014", 
+          "$t": "2014-10-25", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -965,7 +965,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/25/2014"
+          "$t": "2014-10-25"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -985,13 +985,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/25/2014", 
+          "$t": "2014-10-25", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1009,7 +1009,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/25/2014"
+          "$t": "2014-10-25"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1029,13 +1029,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "10/26/2014", 
+          "$t": "2014-10-26", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1053,7 +1053,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/26/2014"
+          "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1073,13 +1073,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "10/26/2014", 
+          "$t": "2014-10-26", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1097,7 +1097,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/26/2014"
+          "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
           "$t": "clements"
@@ -1117,13 +1117,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "10/26/2014", 
+          "$t": "2014-10-26", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1141,7 +1141,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/26/2014"
+          "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1161,13 +1161,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
         }, 
         "title": {
-          "$t": "10/26/2014", 
+          "$t": "2014-10-26", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1185,7 +1185,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/26/2014"
+          "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
           "$t": "honda"
@@ -1205,13 +1205,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/26/2014", 
+          "$t": "2014-10-26", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1229,7 +1229,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/26/2014"
+          "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -1249,13 +1249,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/29/2014", 
+          "$t": "2014-10-29", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1273,7 +1273,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/29/2014"
+          "$t": "2014-10-29"
         }, 
         "gsx$candidate": {
           "$t": "merkley"
@@ -1293,13 +1293,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/30/2014", 
+          "$t": "2014-10-30", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1317,7 +1317,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/30/2014"
+          "$t": "2014-10-30"
         }, 
         "gsx$candidate": {
           "$t": "merkley"
@@ -1337,13 +1337,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T00:11:41.820Z"
+          "$t": "2014-10-22T00:49:06.892Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
         }, 
         "title": {
-          "$t": "10/31/2014", 
+          "$t": "2014-10-31", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1361,7 +1361,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "10/31/2014"
+          "$t": "2014-10-31"
         }, 
         "gsx$candidate": {
           "$t": "merkley"
