@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-22T02:25:01.614Z"
+      "$t": "2014-10-22T02:25:21.931Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1249,13 +1249,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
         }, 
         "title": {
-          "$t": "Row: 29", 
+          "$t": "2014-10-27", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1273,7 +1273,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2014-10-27"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -1293,13 +1293,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
         }, 
         "title": {
-          "$t": "Row: 30", 
+          "$t": "2014-10-27", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1317,7 +1317,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2014-10-27"
         }, 
         "gsx$candidate": {
           "$t": "none"
@@ -1337,13 +1337,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
         }, 
         "title": {
-          "$t": "Row: 31", 
+          "$t": "2014-10-27", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
@@ -1361,7 +1361,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2014-10-27"
         }, 
         "gsx$candidate": {
           "$t": "udall"
@@ -1381,20 +1381,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "18:00"
         }, 
         "title": {
-          "$t": "Row: 32", 
+          "$t": "2014-10-27", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
           "$t": ""
         }, 
         "content": {
-          "$t": "candidate: bellows, description: Shenna Bellows (ME-Sen), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1405,7 +1405,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2014-10-27"
         }, 
         "gsx$candidate": {
           "$t": "bellows"
@@ -1425,20 +1425,20 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "20:00"
         }, 
         "title": {
-          "$t": "Row: 33", 
+          "$t": "2014-10-27", 
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Staci Appel (IA-3), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "candidate: mayday, description: Staci Appel (IA-3), 8pm - 10pm, ET", 
+          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3), 8pm - 10pm, ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1449,7 +1449,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2014-10-27"
         }, 
         "gsx$candidate": {
           "$t": "mayday"
@@ -1469,7 +1469,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1513,7 +1513,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1557,7 +1557,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-22T02:25:01.614Z"
+          "$t": "2014-10-22T02:25:21.931Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
