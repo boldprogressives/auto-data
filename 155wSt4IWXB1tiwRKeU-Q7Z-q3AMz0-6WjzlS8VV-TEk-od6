@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-24T16:34:03.245Z"
+      "$t": "2014-10-24T18:35:05.702Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -426,7 +426,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: westlund, description: Kelly Westlund (WI-7), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -440,13 +440,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "westlund"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3"
         }, 
         "gsx$description": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Kelly Westlund (WI-7), 12pm - 2pm ET"
         }
       }, 
       {
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -514,7 +514,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -528,13 +528,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-26"
         }, 
         "gsx$candidate": {
-          "$t": "none"
+          "$t": "bellows"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
         }, 
         "gsx$description": {
-          "$t": "TBD, 4pm - 6pm ET"
+          "$t": "Shenna Bellows (ME-Sen), 4pm - 6pm ET"
         }
       }, 
       {
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -822,7 +822,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3), 8pm - 10pm, ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3), 8pm - 10pm ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -842,7 +842,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dcgjs"
         }, 
         "gsx$description": {
-          "$t": "Staci Appel (IA-3), 8pm - 10pm, ET"
+          "$t": "Staci Appel (IA-3), 8pm - 10pm ET"
         }
       }, 
       {
@@ -853,7 +853,271 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "20:01"
+        }, 
+        "title": {
+          "$t": "2014-10-27", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 20:01, candidate: weiland, description: Rick Weiland (SD-Sen), 8pm - 10pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-27"
+        }, 
+        "gsx$candidate": {
+          "$t": "weiland"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+        }, 
+        "gsx$description": {
+          "$t": "Rick Weiland (SD-Sen), 8pm - 10pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-10-28", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 12:00", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-28"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-10-28", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 14:00", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-28"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-10-28", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 16:00", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-28"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d6ua4"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-10-28", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 18:00", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-28"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d88ul"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
+        }, 
+        "gsx$time": {
+          "$t": "20:00"
+        }, 
+        "title": {
+          "$t": "2014-10-28", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 20:00", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-10-28"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dkvya"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -871,7 +1135,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -883,7 +1147,7 @@ Tabletop.singleton.loadSheet({
           "$t": "merkley"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ddv49"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair"
         }, 
         "gsx$description": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -897,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -915,7 +1179,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -927,7 +1191,7 @@ Tabletop.singleton.loadSheet({
           "$t": "merkley"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d415a"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dnp34"
         }, 
         "gsx$description": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -941,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-24T16:34:03.245Z"
+          "$t": "2014-10-24T18:35:05.702Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -959,7 +1223,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -971,7 +1235,7 @@ Tabletop.singleton.loadSheet({
           "$t": "merkley"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d5fpr"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dp3nl"
         }, 
         "gsx$description": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -979,7 +1243,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "21"
+      "$t": "27"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
