@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-25T22:01:07.685Z"
+      "$t": "2014-10-25T22:07:59.150Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -105,7 +105,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -149,7 +149,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -193,7 +193,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -237,7 +237,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -281,7 +281,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -325,7 +325,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -369,7 +369,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -413,7 +413,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -457,7 +457,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -501,7 +501,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -545,7 +545,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -589,7 +589,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -633,7 +633,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -677,7 +677,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -721,7 +721,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -765,7 +765,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -809,7 +809,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -853,7 +853,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -897,7 +897,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -941,7 +941,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -985,7 +985,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1029,7 +1029,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -1073,7 +1073,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1117,7 +1117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1127,10 +1127,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "Paul Clements (MI-6), 2pm - 4pm ET"
+          "$t": "Staci Appel (IA-3), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Paul Clements (MI-6), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Staci Appel (IA-3), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1161,7 +1161,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1249,7 +1249,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1293,7 +1293,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -1337,7 +1337,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1381,7 +1381,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1425,7 +1425,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1469,7 +1469,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1513,7 +1513,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1557,7 +1557,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1601,7 +1601,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1645,7 +1645,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1689,7 +1689,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1733,7 +1733,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1777,7 +1777,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1821,7 +1821,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1865,7 +1865,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1909,7 +1909,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1953,7 +1953,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1997,7 +1997,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2041,7 +2041,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2085,7 +2085,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2129,7 +2129,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2139,10 +2139,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "TBD, 12pm - 2pm ET"
+          "$t": "Staci Appel (IA-3), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: MAYDAY.US, 12pm - 2pm ET, specialdescription: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -2162,7 +2162,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eilm2"
         }, 
         "gsx$description": {
-          "$t": "MAYDAY.US, 12pm - 2pm ET"
+          "$t": "Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET"
         }
       }, 
       {
@@ -2173,7 +2173,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2217,7 +2217,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2261,7 +2261,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2305,7 +2305,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2349,7 +2349,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2393,7 +2393,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2437,7 +2437,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2481,7 +2481,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2491,10 +2491,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": "TBD, 4pm - 6pm ET"
+          "$t": "Staci Appel (IA-3), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: MAYDAY.US, 4pm - 6pm ET, specialdescription: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Staci Appel (IA-3), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -2514,7 +2514,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/etu5e"
         }, 
         "gsx$description": {
-          "$t": "MAYDAY.US, 4pm - 6pm ET"
+          "$t": "Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET"
         }
       }, 
       {
@@ -2525,7 +2525,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2014-10-25T22:01:07.685Z"
+          "$t": "2014-10-25T22:07:59.150Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
