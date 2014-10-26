@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-25T22:11:28.164Z"
+      "$t": "2014-10-26T04:13:30.280Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -60,8 +60,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -104,8 +107,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -118,7 +124,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: clements, description: Paul Clements (MI-6), 2pm -4pm ET", 
+          "$t": "time: 14:00, candidate: clements, description: Paul Clements (MI-6), 2pm -4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -148,8 +154,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -192,8 +201,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -236,8 +248,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -250,7 +265,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 8pm ET - 10pm ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 8pm ET - 10pm ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -280,8 +295,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -324,8 +342,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -368,8 +389,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -412,8 +436,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -456,8 +483,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -470,7 +500,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 8pm ET - 10pm ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 8pm ET - 10pm ET, specialdescription: Staci Appel (IA-3), 8pm - 10pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -500,8 +530,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -544,8 +577,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -588,8 +624,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -632,8 +671,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -676,8 +718,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -720,8 +765,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -764,8 +812,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -808,8 +859,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -852,8 +906,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -866,7 +923,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 2pm - 4pm ET, specialdescription: Paul Clements (MI-6), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 2pm - 4pm ET, specialdescription: Paul Clements (MI-6), 2pm - 4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -896,8 +953,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -910,7 +970,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -940,8 +1000,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -984,8 +1047,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1028,8 +1094,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -1072,8 +1141,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1116,8 +1188,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1130,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Staci Appel (IA-3), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Staci Appel (IA-3), 2pm - 4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1160,8 +1235,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1174,7 +1252,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1204,8 +1282,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1248,8 +1329,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1292,8 +1376,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -1336,8 +1423,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1380,8 +1470,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1424,8 +1517,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1468,8 +1564,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1482,7 +1581,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1512,8 +1611,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1556,8 +1658,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1570,7 +1675,7 @@ Tabletop.singleton.loadSheet({
           "$t": "TBD, 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: TBD, 10am - 12pm ET", 
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: TBD, 10am - 12pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1600,8 +1705,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1614,7 +1722,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: clements, description: Paul Clements (MI-6), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: clements, description: Paul Clements (MI-6), 12pm - 2pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1644,8 +1752,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1688,8 +1799,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1732,8 +1846,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1776,8 +1893,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1820,8 +1940,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1834,7 +1957,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET", 
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1864,8 +1987,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1908,8 +2034,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1952,8 +2081,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1996,8 +2128,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2040,8 +2175,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2084,8 +2222,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2128,8 +2269,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2142,7 +2286,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2172,8 +2316,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2216,8 +2363,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2260,8 +2410,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2274,7 +2427,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2304,8 +2457,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2348,8 +2504,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2362,7 +2521,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET", 
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2392,8 +2551,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2406,7 +2568,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2436,8 +2598,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2480,8 +2645,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2494,7 +2662,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Staci Appel (IA-3), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Staci Appel (IA-3), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Staci Appel (IA-3), 4pm - 6pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2524,8 +2692,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
         "updated": {
-          "$t": "2014-10-25T22:11:28.164Z"
+          "$t": "2014-10-26T04:13:30.280Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
