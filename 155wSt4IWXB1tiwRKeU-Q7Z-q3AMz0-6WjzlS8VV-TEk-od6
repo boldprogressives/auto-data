@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-27T23:14:21.192Z"
+      "$t": "2014-10-27T23:49:39.846Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -111,7 +111,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -158,7 +158,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -205,7 +205,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -252,7 +252,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -299,7 +299,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -346,7 +346,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -393,7 +393,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -440,7 +440,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -487,7 +487,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -534,7 +534,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -581,7 +581,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -628,7 +628,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -675,7 +675,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -722,7 +722,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -769,7 +769,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -816,7 +816,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -863,7 +863,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -910,7 +910,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -957,7 +957,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1004,7 +1004,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1051,7 +1051,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1098,7 +1098,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1145,7 +1145,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1192,7 +1192,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1205,7 +1205,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:01, candidate: sheaporter, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
+          "$t": "time: 14:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1219,7 +1219,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-01"
         }, 
         "gsx$candidate": {
-          "$t": "sheaporter"
+          "$t": "mayday"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dmair"
@@ -1239,7 +1239,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1286,7 +1286,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1333,7 +1333,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1380,7 +1380,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1427,7 +1427,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1474,7 +1474,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1521,7 +1521,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1568,7 +1568,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1581,7 +1581,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:01, candidate: sheaporter, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
+          "$t": "time: 14:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1595,7 +1595,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-02"
         }, 
         "gsx$candidate": {
-          "$t": "sheaporter"
+          "$t": "mayday"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dxj3v"
@@ -1615,7 +1615,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1662,7 +1662,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1709,7 +1709,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1803,7 +1803,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1850,7 +1850,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1897,7 +1897,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1944,7 +1944,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1957,7 +1957,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Carol Shea-Porter (NH-1), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:01, candidate: sheaporter, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Carol Shea-Porter (NH-1), 4pm - 6pm ET, pfaw: yes", 
+          "$t": "time: 16:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Carol Shea-Porter (NH-1), 4pm - 6pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -1971,7 +1971,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-03"
         }, 
         "gsx$candidate": {
-          "$t": "sheaporter"
+          "$t": "mayday"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e8rn7"
@@ -1991,7 +1991,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2038,7 +2038,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2085,7 +2085,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -2132,7 +2132,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2179,7 +2179,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2226,7 +2226,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2273,7 +2273,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -2286,7 +2286,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:01, candidate: sheaporter, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
+          "$t": "time: 14:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
           "type": "text"
         }, 
         "link": [
@@ -2300,7 +2300,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-04"
         }, 
         "gsx$candidate": {
-          "$t": "sheaporter"
+          "$t": "mayday"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eilm2"
@@ -2320,7 +2320,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2367,7 +2367,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-27T23:14:21.192Z"
+          "$t": "2014-10-27T23:49:39.846Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
