@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-28T19:45:50.701Z"
+      "$t": "2014-10-28T20:19:59.344Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -74,10 +74,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Mark Udall (CO-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: udall, description: Mark Udall (CO-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: udall, description: Mark Udall (CO-Sen), 8pm - 10pm ET, specialdescription: Mark Udall (CO-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -111,7 +111,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -121,10 +121,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Bruce Braley (IA-Sen) and Staci Appel (IA-3), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: braley, description: Bruce Braley (IA-Sen) and Staci Appel (IA-3), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: braley, description: Bruce Braley (IA-Sen) and Staci Appel (IA-3), 12pm - 2pm ET, specialdescription: Bruce Braley (IA-Sen) and Staci Appel (IA-3), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -158,7 +158,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -205,7 +205,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -252,7 +252,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -262,10 +262,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Shenna Bellows (ME-Sen), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: bellows, description: Shenna Bellows (ME-Sen), 6pm - 8pm ET, specialdescription: Shenna Bellows (ME-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -299,7 +299,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -309,10 +309,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -346,7 +346,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -356,10 +356,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Bruce Braley (IA-Sen) and Pat Murphy (IA-1), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: braley, description: Bruce Braley (IA-Sen) and Pat Murphy (IA-1), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: braley, description: Bruce Braley (IA-Sen) and Pat Murphy (IA-1), 12pm - 2pm ET, specialdescription: Bruce Braley (IA-Sen) and Pat Murphy (IA-1), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -393,7 +393,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -440,7 +440,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -487,7 +487,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -497,10 +497,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Michael Eggman (CA-10), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: eggman, description: Michael Eggman (CA-10), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: eggman, description: Michael Eggman (CA-10), 6pm - 8pm ET, specialdescription: Michael Eggman (CA-10), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -534,7 +534,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -544,10 +544,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -581,7 +581,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -591,10 +591,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "TBD, 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET, specialdescription: TBD, 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -628,7 +628,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -675,7 +675,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -685,10 +685,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "TBD, 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: none, description: TBD, 2pm - 4pm ET, specialdescription: TBD, 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -722,7 +722,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -769,7 +769,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -816,7 +816,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -863,7 +863,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -873,10 +873,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -910,7 +910,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -957,7 +957,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -967,10 +967,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Paul Clements (MI-6), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: clements, description: Paul Clements (MI-6), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: clements, description: Paul Clements (MI-6), 12pm - 2pm ET, specialdescription: Paul Clements (MI-6), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1004,7 +1004,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1051,7 +1051,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1098,7 +1098,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1108,10 +1108,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "TBD, 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:01, candidate: none, description: TBD, 4pm - 6pm ET", 
+          "$t": "time: 16:01, candidate: none, description: TBD, 4pm - 6pm ET, specialdescription: TBD, 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1145,7 +1145,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1155,10 +1155,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 6pm - 8pm ET", 
+          "$t": "time: 18:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 6pm - 8pm ET, specialdescription: Jeff Merkley (OR-Sen), 6pm - 8pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1192,7 +1192,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1239,7 +1239,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1286,7 +1286,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1296,10 +1296,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "TBD, 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: none, description: TBD, 12pm - 2pm ET, specialdescription: TBD, 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1333,7 +1333,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1343,10 +1343,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET, specialdescription: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1380,7 +1380,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1427,7 +1427,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1474,7 +1474,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1521,7 +1521,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1531,10 +1531,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1568,7 +1568,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1578,10 +1578,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "TBD, 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: none, description: TBD, 10am - 12pm ET", 
+          "$t": "time: 10:00, candidate: none, description: TBD, 10am - 12pm ET, specialdescription: TBD, 10am - 12pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1615,7 +1615,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1662,7 +1662,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1672,10 +1672,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET, specialdescription: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1709,7 +1709,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1719,10 +1719,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Michael Eggman (CA-10), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: eggman, description: Michael Eggman (CA-10), 4pm - 6pm ET", 
+          "$t": "time: 16:00, candidate: eggman, description: Michael Eggman (CA-10), 4pm - 6pm ET, specialdescription: Michael Eggman (CA-10), 4pm - 6pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1756,7 +1756,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1803,7 +1803,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1850,7 +1850,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1860,10 +1860,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
         }, 
         "content": {
-          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -1897,7 +1897,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -1944,7 +1944,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1991,7 +1991,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2001,10 +2001,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET", 
+          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -2038,7 +2038,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2048,10 +2048,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$specialdescription": {
-          "$t": ""
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET, specialdescription: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
           "type": "text"
         }, 
         "link": [
@@ -2085,7 +2085,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -2132,7 +2132,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2179,7 +2179,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-28T19:45:50.701Z"
+          "$t": "2014-10-28T20:19:59.344Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
