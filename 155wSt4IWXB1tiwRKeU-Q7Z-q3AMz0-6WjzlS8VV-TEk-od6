@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-29T14:20:14.382Z"
+      "$t": "2014-10-29T14:20:43.104Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -111,7 +111,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -158,7 +158,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -205,7 +205,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -252,7 +252,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -299,7 +299,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -346,7 +346,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -393,7 +393,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -440,7 +440,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -487,7 +487,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -534,7 +534,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -581,7 +581,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -628,7 +628,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -675,7 +675,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -722,7 +722,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -769,7 +769,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -816,7 +816,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -863,7 +863,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -910,7 +910,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "10:01"
@@ -957,7 +957,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1004,7 +1004,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -1051,7 +1051,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1098,7 +1098,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1145,7 +1145,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1192,7 +1192,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1239,7 +1239,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1286,7 +1286,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1333,7 +1333,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1380,7 +1380,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1427,7 +1427,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1474,7 +1474,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1521,7 +1521,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1568,7 +1568,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1615,7 +1615,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-29T14:20:14.382Z"
+          "$t": "2014-10-29T14:20:43.104Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1650,10 +1650,762 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": ""
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:01"
+        }, 
+        "title": {
+          "$t": "2014-11-02", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Bruce Braley (IA-Sen), 6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:01, candidate: braley, description: Bruce Braley (IA-Sen), 6pm - 8pm ET, specialdescription: Bruce Braley (IA-Sen), 6pm - 8pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "braley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e0c8p"
+        }, 
+        "gsx$description": {
+          "$t": "Bruce Braley (IA-Sen), 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "20:00"
+        }, 
+        "title": {
+          "$t": "2014-11-02", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
+        }, 
+        "content": {
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-02"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dqi9q"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "10:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "TBD, 10am - 12pm ET"
+        }, 
+        "content": {
+          "$t": "time: 10:00, candidate: none, description: TBD, 10am - 12pm ET, specialdescription: TBD, 10am - 12pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/drwu7", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "none"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/drwu7"
+        }, 
+        "gsx$description": {
+          "$t": "TBD, 10am - 12pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Staci Appel (IA-3), 12pm - 2pm ET"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dtbek", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dtbek"
+        }, 
+        "gsx$description": {
+          "$t": "Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET, specialdescription: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dupz1", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/dupz1"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Michael Eggman (CA-10), 4pm - 6pm ET"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: eggman, description: Michael Eggman (CA-10), 4pm - 6pm ET, specialdescription: Michael Eggman (CA-10), 4pm - 6pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e7d2q", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "eggman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e7d2q"
+        }, 
+        "gsx$description": {
+          "$t": "Michael Eggman (CA-10), 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:01"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Carol Shea-Porter (NH-1), 4pm - 6pm ET"
+        }, 
+        "content": {
+          "$t": "time: 16:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Carol Shea-Porter (NH-1), 4pm - 6pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e8rn7", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e8rn7"
+        }, 
+        "gsx$description": {
+          "$t": "Carol Shea-Porter (NH-1) via MAYDAY.US, 4pm - 6pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Paul Clements (MI-6), 6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ea67k", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ea67k"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "20:00"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
+        }, 
+        "content": {
+          "$t": "time: 20:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 8pm - 10pm ET, specialdescription: Jeff Merkley (OR-Sen), 8pm - 10pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ebks1", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ebks1"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "20:01"
+        }, 
+        "title": {
+          "$t": "2014-11-03", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Greg Orman (KS-Sen), 8pm - 10pm ET"
+        }, 
+        "content": {
+          "$t": "time: 20:01, candidate: orman, specialdescription: Greg Orman (KS-Sen), 8pm - 10pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e1qt2", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-03"
+        }, 
+        "gsx$candidate": {
+          "$t": "orman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e1qt2"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "10:00"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Paul Clements (MI-6), 10am - 12pm ET"
+        }, 
+        "content": {
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e35dj", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e35dj"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "12:00"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET"
+        }, 
+        "content": {
+          "$t": "time: 12:00, candidate: clements, description: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET, specialdescription: Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e4jxw", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "clements"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e4jxw"
+        }, 
+        "gsx$description": {
+          "$t": "Fred Upton's opponent Paul Clements (MI-06), 12pm - 2pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:00"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }, 
+        "content": {
+          "$t": "time: 14:00, candidate: merkley, description: Jeff Merkley (OR-Sen), 2pm - 4pm ET, specialdescription: Jeff Merkley (OR-Sen), 2pm - 4pm ET", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e5yid", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "merkley"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/e5yid"
+        }, 
+        "gsx$description": {
+          "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "14:01"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
+        }, 
+        "content": {
+          "$t": "time: 14:01, candidate: mayday, description: Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Carol Shea-Porter (NH-1), 2pm - 4pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eilm2", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eilm2"
+        }, 
+        "gsx$description": {
+          "$t": "Carol Shea-Porter (NH-1) via MAYDAY.US, 2pm - 4pm ET"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "16:00"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Greg Orman (KS-Sen), 4pm - 6pm ET"
+        }, 
+        "content": {
+          "$t": "time: 16:00, candidate: orman, specialdescription: Greg Orman (KS-Sen), 4pm - 6pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ek06j", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "orman"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ek06j"
+        }, 
+        "gsx$description": {
+          "$t": ""
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": "yes"
+        }, 
+        "updated": {
+          "$t": "2014-10-29T14:20:43.104Z"
+        }, 
+        "gsx$time": {
+          "$t": "18:00"
+        }, 
+        "title": {
+          "$t": "2014-11-04", 
+          "type": "text"
+        }, 
+        "gsx$specialdescription": {
+          "$t": "Staci Appel (IA-3), 6pm - 8pm ET"
+        }, 
+        "content": {
+          "$t": "time: 18:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Staci Appel (IA-3), 6pm - 8pm ET, pfaw: yes", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eleqw", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2014-11-04"
+        }, 
+        "gsx$candidate": {
+          "$t": "mayday"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/eleqw"
+        }, 
+        "gsx$description": {
+          "$t": "Staci Appel (IA-3) via MAYDAY.US, 6pm - 8pm ET"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "34"
+      "$t": "50"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
