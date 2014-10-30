@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2014-10-30T14:38:37.186Z"
+      "$t": "2014-10-30T14:55:43.532Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -73,11 +73,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-30", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Staci Appel (IA-3), 2pm - 4pm ET"
         }, 
         "content": {
-          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Staci Appel (IA-3), 2pm - 4pm ET, pfaw: yes, pccc: yes", 
+          "$t": "time: 14:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 2pm - 4pm ET, specialdescription: Staci Appel (IA-3), 2pm - 4pm ET, pfaw: yes, pccc: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -114,7 +117,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -123,11 +126,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-30", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET, pfaw: yes", 
+          "$t": "time: 16:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 4pm - 6pm ET, specialdescription: Paul Clements (MI-6), 4pm - 6pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -164,7 +170,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -172,6 +178,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-30", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mark Udall (CO-Sen), 4pm - 6pm ET"
@@ -214,7 +223,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -222,6 +231,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-30", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Michael Eggman (CA-10), 6pm - 8pm ET"
@@ -264,7 +276,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:01"
@@ -272,6 +284,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-30", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements, 6pm - 8pm ET"
@@ -314,7 +329,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -322,6 +337,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-30", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -364,7 +382,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -372,6 +390,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-30", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mike Honda (CA-17), 8pm - 10pm ET"
@@ -414,7 +435,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -422,6 +443,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-31", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "TBD, 12pm - 2pm ET"
@@ -464,7 +488,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -472,6 +496,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-31", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 12pm - 2pm ET"
@@ -514,7 +541,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -522,6 +549,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-31", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 2pm - 4m ET"
@@ -564,7 +594,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -572,6 +602,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-31", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 2pm - 4pm ET"
@@ -614,7 +647,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -623,11 +656,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-31", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Staci Appel (IA-3), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Staci Appel (IA-3), 4pm - 6pm ET, pfaw: yes, pccc: yes", 
+          "$t": "time: 16:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 4pm - 6pm ET, specialdescription: Staci Appel (IA-3), 4pm - 6pm ET, pfaw: yes, pccc: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -664,7 +700,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -673,11 +709,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-10-31", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes, pccc: yes", 
+          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes, pccc: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -714,7 +753,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -722,6 +761,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-10-31", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -764,7 +806,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -773,11 +815,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-01", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
+          "$t": "time: 10:00, candidate: mayday, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -814,7 +859,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:01"
@@ -822,6 +867,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 10am - 12pm ET"
@@ -864,7 +912,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:02"
@@ -872,6 +920,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
@@ -914,7 +965,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -922,6 +973,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 12pm - 2pm ET"
@@ -964,7 +1018,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -972,6 +1026,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Bruce Braley (IA-Sen), 12pm - 2pm ET"
@@ -1014,7 +1071,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1022,6 +1079,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
@@ -1064,7 +1124,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1073,11 +1133,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-01", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: orman, specialdescription: Greg Orman (KS-Sen), 4pm - 6pm ET, pfaw: yes", 
+          "$t": "time: 16:00, candidate: orman, specialdescription: Greg Orman (KS-Sen), 4pm - 6pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -1114,7 +1177,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1122,6 +1185,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 4pm - 6pm ET"
@@ -1164,7 +1230,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1172,6 +1238,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 6pm - 8pm ET"
@@ -1214,7 +1283,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1222,6 +1291,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 8pm - 10pm ET"
@@ -1264,7 +1336,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1272,6 +1344,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-01", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mark Udall (CO-Sen), 8pm - 10pm ET"
@@ -1314,7 +1389,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1323,11 +1398,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-02", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements via MAYDAY.US (MI-6), 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -1364,7 +1442,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:01"
@@ -1372,6 +1450,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 10am - 12pm ET"
@@ -1414,7 +1495,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1422,6 +1503,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 12pm - 2pm ET"
@@ -1464,7 +1548,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1472,6 +1556,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
@@ -1514,7 +1601,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -1522,6 +1609,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
@@ -1564,7 +1654,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -1572,6 +1662,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 4pm - 6pm ET"
@@ -1614,7 +1707,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -1622,6 +1715,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mark Udall (CO-Sen), 4pm - 6pm ET"
@@ -1664,7 +1760,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -1672,6 +1768,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 6pm - 8pm ET"
@@ -1714,7 +1813,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:01"
@@ -1722,6 +1821,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Bruce Braley (IA-Sen), 6pm - 8pm ET"
@@ -1764,7 +1866,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -1772,6 +1874,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-02", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -1814,7 +1919,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -1822,6 +1927,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 10am - 12pm ET"
@@ -1864,7 +1972,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -1872,6 +1980,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 12pm - 2pm ET"
@@ -1914,7 +2025,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -1923,11 +2034,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-03", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Staci Appel (IA-3), 12pm - 2pm ET"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET, pfaw: yes", 
+          "$t": "time: 12:00, candidate: mayday, description: Staci Appel via MAYDAY.US (IA-3), 12pm - 2pm ET, specialdescription: Staci Appel (IA-3), 12pm - 2pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -1964,7 +2078,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -1972,6 +2086,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
@@ -2014,7 +2131,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -2022,6 +2139,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Bruce Braley (IA-Sen), 2pm - 4pm ET"
@@ -2064,7 +2184,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2072,6 +2192,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Michael Eggman (CA-10), 4pm - 6pm ET"
@@ -2114,7 +2237,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -2122,6 +2245,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 4pm - 6pm ET"
@@ -2164,7 +2290,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2173,11 +2299,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-03", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes", 
+          "$t": "time: 18:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Paul Clements (MI-6), 6pm - 8pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -2214,7 +2343,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:01"
@@ -2222,6 +2351,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 8pm - 10pm ET"
@@ -2264,7 +2396,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:02"
@@ -2272,6 +2404,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mark Udall (CO-Sen), 6pm - 8pm ET"
@@ -2314,7 +2449,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:00"
@@ -2322,6 +2457,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 8pm - 10pm ET"
@@ -2364,7 +2502,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "20:01"
@@ -2372,6 +2510,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-03", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 8pm - 10pm ET"
@@ -2414,7 +2555,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -2423,11 +2564,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-04", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements (MI-6), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes", 
+          "$t": "time: 10:00, candidate: mayday, description: Fred Upton's opponent Paul Clements (MI-6) via MAYDAY.US, 10am - 12pm ET, specialdescription: Paul Clements (MI-6), 10am - 12pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -2464,7 +2608,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "10:01"
@@ -2472,6 +2616,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Al Franken (MN-Sen), 10am - 12pm ET"
@@ -2514,7 +2661,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:00"
@@ -2522,6 +2669,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Paul Clements, 12pm - 2pm ET"
@@ -2564,7 +2714,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "12:01"
@@ -2572,6 +2722,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 12pm - 2pm ET"
@@ -2614,7 +2767,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:00"
@@ -2622,6 +2775,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Jeff Merkley (OR-Sen), 2pm - 4pm ET"
@@ -2664,7 +2820,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "14:01"
@@ -2672,6 +2828,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Carol Shea-Porter (NH-1), 2pm - 4pm ET"
@@ -2714,7 +2873,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:01"
@@ -2722,6 +2881,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Bruce Braley (IA-Sen), 4pm - 6pm ET"
@@ -2764,7 +2926,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "16:00"
@@ -2773,11 +2935,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-04", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Greg Orman (KS-Sen), 4pm - 6pm ET"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: orman, specialdescription: Greg Orman (KS-Sen), 4pm - 6pm ET, pfaw: yes", 
+          "$t": "time: 16:00, candidate: orman, specialdescription: Greg Orman (KS-Sen), 4pm - 6pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -2814,7 +2979,7 @@ Tabletop.singleton.loadSheet({
           "$t": "yes"
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:00"
@@ -2823,11 +2988,14 @@ Tabletop.singleton.loadSheet({
           "$t": "2014-11-04", 
           "type": "text"
         }, 
+        "gsx$dfa": {
+          "$t": "yes"
+        }, 
         "gsx$specialdescription": {
           "$t": "Staci Appel (IA-3), 6pm - 8pm ET"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Staci Appel (IA-3), 6pm - 8pm ET, pfaw: yes", 
+          "$t": "time: 18:00, candidate: mayday, description: Staci Appel (IA-3) via MAYDAY.US, 6pm - 8pm ET, specialdescription: Staci Appel (IA-3), 6pm - 8pm ET, pfaw: yes, dfa: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -2864,7 +3032,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2014-10-30T14:38:37.186Z"
+          "$t": "2014-10-30T14:55:43.532Z"
         }, 
         "gsx$time": {
           "$t": "18:01"
@@ -2872,6 +3040,9 @@ Tabletop.singleton.loadSheet({
         "title": {
           "$t": "2014-11-04", 
           "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
         }, 
         "gsx$specialdescription": {
           "$t": "Mark Udall (CO-Sen), 6pm - 8pm ET"
