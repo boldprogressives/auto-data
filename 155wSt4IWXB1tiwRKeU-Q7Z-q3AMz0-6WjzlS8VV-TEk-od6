@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-26T15:48:16.260Z"
+      "$t": "2016-05-26T15:52:55.065Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:48:16.260Z"
+          "$t": "2016-05-26T15:52:55.065Z"
         }, 
         "gsx$westcoasthidecandidate": {
           "$t": ""
@@ -117,7 +117,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:48:16.260Z"
+          "$t": "2016-05-26T15:52:55.065Z"
         }, 
         "gsx$westcoasthidecandidate": {
           "$t": ""
@@ -170,7 +170,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:48:16.260Z"
+          "$t": "2016-05-26T15:52:55.065Z"
         }, 
         "gsx$westcoasthidecandidate": {
           "$t": ""
@@ -186,7 +186,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: warren, description: Lucy Flores (NV-4), 10am - 12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, pccc: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -203,7 +203,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-06-14"
         }, 
         "gsx$candidate": {
-          "$t": "warren"
+          "$t": "flores"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
@@ -211,10 +211,63 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Lucy Flores (NV-4), 10am - 12pm ET"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-05-26T15:52:55.065Z"
+        }, 
+        "gsx$westcoasthidecandidate": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": "10:00"
+        }, 
+        "title": {
+          "$t": "2016-06-19", 
+          "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 10:00, candidate: flores, description: Zephyr Teachout (NY-19), 10am -12pm ET, pccc: yes", 
+          "type": "text"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-19"
+        }, 
+        "gsx$candidate": {
+          "$t": "flores"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+        }, 
+        "gsx$description": {
+          "$t": "Zephyr Teachout (NY-19), 10am -12pm ET"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "4"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
