@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-26T12:00:52.147Z"
+      "$t": "2016-05-26T13:03:18.692Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T12:00:52.147Z"
+          "$t": "2016-05-26T13:03:18.692Z"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -83,11 +83,11 @@ Tabletop.singleton.loadSheet({
           "$t": "Mike Noland (IL-8), 10am - 12pm ET"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: noland, description: Mike Noland (IL-8), 10am - 12pm ET, specialdescription: Mike Noland (IL-8), 10am - 12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: warren, description: Mike Noland (IL-8), 10am - 12pm ET, specialdescription: Mike Noland (IL-8), 10am - 12pm ET, pccc: no", 
           "type": "text"
         }, 
         "gsx$pccc": {
-          "$t": "yes"
+          "$t": "no"
         }, 
         "link": [
           {
@@ -100,7 +100,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-03-12"
         }, 
         "gsx$candidate": {
-          "$t": "noland"
+          "$t": "warren"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
@@ -120,7 +120,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T12:00:52.147Z"
+          "$t": "2016-05-26T13:03:18.692Z"
         }, 
         "gsx$time": {
           "$t": "15:00"
@@ -139,11 +139,11 @@ Tabletop.singleton.loadSheet({
           "$t": "Mike Noland (IL-8), 3pm - 5pm ET"
         }, 
         "content": {
-          "$t": "time: 15:00, candidate: noland, description: Mike Noland (IL-8), 3pm - 5pm ET, specialdescription: Mike Noland (IL-8), 3pm - 5pm ET, pccc: yes", 
+          "$t": "time: 15:00, candidate: noland, description: Mike Noland (IL-8), 3pm - 5pm ET, specialdescription: Mike Noland (IL-8), 3pm - 5pm ET, pccc: no", 
           "type": "text"
         }, 
         "gsx$pccc": {
-          "$t": "yes"
+          "$t": "no"
         }, 
         "link": [
           {
@@ -176,7 +176,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T12:00:52.147Z"
+          "$t": "2016-05-26T13:03:18.692Z"
         }, 
         "gsx$time": {
           "$t": "15:00"
