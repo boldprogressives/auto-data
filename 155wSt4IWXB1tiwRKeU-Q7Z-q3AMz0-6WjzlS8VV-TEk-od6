@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-26T13:03:18.692Z"
+      "$t": "2016-05-26T13:09:04.285Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T13:03:18.692Z"
+          "$t": "2016-05-26T13:09:04.285Z"
+        }, 
+        "gsx$westcoasthidecandidate": {
+          "$t": ""
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -73,17 +76,11 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-03-12", 
           "type": "text"
         }, 
-        "gsx$moveonmi6": {
-          "$t": ""
-        }, 
         "gsx$dfa": {
           "$t": ""
         }, 
-        "gsx$specialdescription": {
-          "$t": "Mike Noland (IL-8), 10am - 12pm ET"
-        }, 
         "content": {
-          "$t": "time: 10:00, candidate: warren, description: Mike Noland (IL-8), 10am - 12pm ET, specialdescription: Mike Noland (IL-8), 10am - 12pm ET, pccc: no", 
+          "$t": "time: 10:00, candidate: warren, description: Mike Noland (IL-8), 10am - 12pm ET, pccc: no", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -120,7 +117,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T13:03:18.692Z"
+          "$t": "2016-05-26T13:09:04.285Z"
+        }, 
+        "gsx$westcoasthidecandidate": {
+          "$t": ""
         }, 
         "gsx$time": {
           "$t": "15:00"
@@ -129,17 +129,11 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-03-13", 
           "type": "text"
         }, 
-        "gsx$moveonmi6": {
-          "$t": ""
-        }, 
         "gsx$dfa": {
           "$t": ""
         }, 
-        "gsx$specialdescription": {
-          "$t": "Mike Noland (IL-8), 3pm - 5pm ET"
-        }, 
         "content": {
-          "$t": "time: 15:00, candidate: noland, description: Mike Noland (IL-8), 3pm - 5pm ET, specialdescription: Mike Noland (IL-8), 3pm - 5pm ET, pccc: no", 
+          "$t": "time: 15:00, candidate: noland, description: Mike Noland (IL-8), 3pm - 5pm ET, pccc: no", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -176,7 +170,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T13:03:18.692Z"
+          "$t": "2016-05-26T13:09:04.285Z"
+        }, 
+        "gsx$westcoasthidecandidate": {
+          "$t": ""
         }, 
         "gsx$time": {
           "$t": "15:00"
@@ -185,17 +182,11 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-03-14", 
           "type": "text"
         }, 
-        "gsx$moveonmi6": {
-          "$t": ""
-        }, 
         "gsx$dfa": {
           "$t": ""
         }, 
-        "gsx$specialdescription": {
-          "$t": "Mike Noland (IL-8), 3pm - 5pm ET"
-        }, 
         "content": {
-          "$t": "time: 15:00, candidate: warren, description: Mike Noland (IL-8), 3pm - 5pm ET, specialdescription: Mike Noland (IL-8), 3pm - 5pm ET, pccc: yes", 
+          "$t": "time: 15:00, candidate: warren, description: Mike Noland (IL-8), 3pm - 5pm ET, pccc: yes", 
           "type": "text"
         }, 
         "gsx$pccc": {
@@ -220,10 +211,63 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Mike Noland (IL-8), 3pm - 5pm ET"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$pfaw": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-05-26T13:09:04.285Z"
+        }, 
+        "gsx$westcoasthidecandidate": {
+          "$t": "THIS THURSDAY, noon PT!"
+        }, 
+        "gsx$time": {
+          "$t": "15:00"
+        }, 
+        "title": {
+          "$t": "2016-03-14", 
+          "type": "text"
+        }, 
+        "gsx$dfa": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 15:00, candidate: teachout, description: Zephyr Teachout (NY-21), 3pm - 5pm ET, westcoasthidecandidate: THIS THURSDAY, noon PT!", 
+          "type": "text"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-03-14"
+        }, 
+        "gsx$candidate": {
+          "$t": "teachout"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+        }, 
+        "gsx$description": {
+          "$t": "Zephyr Teachout (NY-21), 3pm - 5pm ET"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "3"
+      "$t": "4"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
