@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-27T15:29:42.231Z"
+      "$t": "2016-05-27T15:31:20.716Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T15:29:42.231Z"
+          "$t": "2016-05-27T15:31:20.716Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -117,7 +117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T15:29:42.231Z"
+          "$t": "2016-05-27T15:31:20.716Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -173,7 +173,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T15:29:42.231Z"
+          "$t": "2016-05-27T15:31:20.716Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -229,7 +229,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T15:29:42.231Z"
+          "$t": "2016-05-27T15:31:20.716Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -245,10 +245,10 @@ Tabletop.singleton.loadSheet({
           "$t": "Sunday"
         }, 
         "gsx$color": {
-          "$t": "aliceblue"
+          "$t": "rgba(124, 218, 147, 0.63)"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dayofweek: Sunday, color: aliceblue", 
+          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dayofweek: Sunday, color: rgba(124, 218, 147, 0.63)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
