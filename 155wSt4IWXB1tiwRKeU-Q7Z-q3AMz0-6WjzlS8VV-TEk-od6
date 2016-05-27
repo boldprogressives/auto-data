@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-26T15:52:55.065Z"
+      "$t": "2016-05-27T14:38:16.619Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,10 +64,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:52:55.065Z"
+          "$t": "2016-05-27T14:38:16.619Z"
         }, 
-        "gsx$westcoasthidecandidate": {
-          "$t": ""
+        "gsx$pccc": {
+          "$t": "yes"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -80,11 +80,11 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
           "type": "text"
         }, 
-        "gsx$pccc": {
-          "$t": "yes"
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
         }, 
         "link": [
           {
@@ -117,10 +117,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:52:55.065Z"
+          "$t": "2016-05-27T14:38:16.619Z"
         }, 
-        "gsx$westcoasthidecandidate": {
-          "$t": ""
+        "gsx$pccc": {
+          "$t": "yes"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -133,11 +133,11 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
           "type": "text"
         }, 
-        "gsx$pccc": {
-          "$t": "yes"
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
         }, 
         "link": [
           {
@@ -170,10 +170,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:52:55.065Z"
+          "$t": "2016-05-27T14:38:16.619Z"
         }, 
-        "gsx$westcoasthidecandidate": {
-          "$t": ""
+        "gsx$pccc": {
+          "$t": "yes"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -186,11 +186,11 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
           "type": "text"
         }, 
-        "gsx$pccc": {
-          "$t": "yes"
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
         }, 
         "link": [
           {
@@ -223,10 +223,10 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-05-26T15:52:55.065Z"
+          "$t": "2016-05-27T14:38:16.619Z"
         }, 
-        "gsx$westcoasthidecandidate": {
-          "$t": ""
+        "gsx$pccc": {
+          "$t": "yes"
         }, 
         "gsx$time": {
           "$t": "10:00"
@@ -239,11 +239,11 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Zephyr Teachout (NY-19), 10am -12pm ET, pccc: yes", 
+          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), pccc: yes", 
           "type": "text"
         }, 
-        "gsx$pccc": {
-          "$t": "yes"
+        "gsx$candidatename": {
+          "$t": "Zephyr Teachout (NY-19)"
         }, 
         "link": [
           {
@@ -256,7 +256,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-06-19"
         }, 
         "gsx$candidate": {
-          "$t": "flores"
+          "$t": "teachout"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
