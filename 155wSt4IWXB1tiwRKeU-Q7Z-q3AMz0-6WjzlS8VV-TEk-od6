@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-27T14:38:16.619Z"
+      "$t": "2016-05-27T14:52:19.132Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -60,11 +60,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$pfaw": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2016-05-27T14:38:16.619Z"
+          "$t": "2016-05-27T14:52:19.132Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -80,7 +77,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -102,6 +99,9 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
+        "gsx$candidateimage": {
+          "$t": "https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024"
+        }, 
         "gsx$description": {
           "$t": "Lucy Flores (NV-4), 10am - 12pm ET"
         }
@@ -113,11 +113,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$pfaw": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2016-05-27T14:38:16.619Z"
+          "$t": "2016-05-27T14:52:19.132Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -133,7 +130,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -155,6 +152,9 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
+        "gsx$candidateimage": {
+          "$t": "https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024"
+        }, 
         "gsx$description": {
           "$t": "Lucy Flores (NV-4), 10am - 12pm ET"
         }
@@ -166,11 +166,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$pfaw": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2016-05-27T14:38:16.619Z"
+          "$t": "2016-05-27T14:52:19.132Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -186,7 +183,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -208,6 +205,9 @@ Tabletop.singleton.loadSheet({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
+        "gsx$candidateimage": {
+          "$t": "https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024"
+        }, 
         "gsx$description": {
           "$t": "Lucy Flores (NV-4), 10am - 12pm ET"
         }
@@ -219,11 +219,8 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
-        "gsx$pfaw": {
-          "$t": ""
-        }, 
         "updated": {
-          "$t": "2016-05-27T14:38:16.619Z"
+          "$t": "2016-05-27T14:52:19.132Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -239,7 +236,7 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), pccc: yes", 
+          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -260,6 +257,9 @@ Tabletop.singleton.loadSheet({
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg"
         }, 
         "gsx$description": {
           "$t": "Zephyr Teachout (NY-19), 10am -12pm ET"
