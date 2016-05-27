@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2016-05-27T16:29:42.962Z"
+      "$t": "2016-05-27T16:31:38.144Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,14 +39,14 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T16:29:42.962Z"
+          "$t": "2016-05-27T16:31:38.144Z"
         }, 
         "title": {
-          "$t": "Sheet1", 
+          "$t": "shifts", 
           "type": "text"
         }, 
         "content": {
-          "$t": "Sheet1", 
+          "$t": "shifts", 
           "type": "text"
         }, 
         "link": [
@@ -94,14 +94,14 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T16:29:42.962Z"
+          "$t": "2016-05-27T16:31:38.144Z"
         }, 
         "title": {
-          "$t": "candidates", 
+          "$t": "candidate data", 
           "type": "text"
         }, 
         "content": {
-          "$t": "candidates", 
+          "$t": "candidate data", 
           "type": "text"
         }, 
         "link": [
