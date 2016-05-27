@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2016-05-27T16:13:11.440Z"
+      "$t": "2016-05-27T16:24:53.916Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T16:13:11.440Z"
+          "$t": "2016-05-27T16:24:53.916Z"
         }, 
         "title": {
           "$t": "Sheet1", 
@@ -85,6 +85,61 @@ Tabletop.singleton.loadSheets({
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/od6"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#worksheet", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2016-05-27T16:24:53.916Z"
+        }, 
+        "title": {
+          "$t": "candidates", 
+          "type": "text"
+        }, 
+        "content": {
+          "$t": "candidates", 
+          "type": "text"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/ot2inag/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#listfeed"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/cells/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/ot2inag/public/basic", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#cellsfeed"
+          }, 
+          {
+            "href": "https://docs.google.com/spreadsheets/d/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/gviz/tq?gid=1757748658&pub=1", 
+            "type": "application/atom+xml", 
+            "rel": "http://schemas.google.com/visualization/2008#visualizationApi"
+          }, 
+          {
+            "href": "https://docs.google.com/spreadsheets/d/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/export?gid=1757748658&format=csv", 
+            "type": "text/csv", 
+            "rel": "http://schemas.google.com/spreadsheets/2006#exportcsv"
+          }, 
+          {
+            "href": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/ot2inag", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gs$colCount": {
+          "$t": "26"
+        }, 
+        "gs$rowCount": {
+          "$t": "1000"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/ot2inag"
+        }
       }
     ], 
     "link": [
@@ -110,7 +165,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic"
