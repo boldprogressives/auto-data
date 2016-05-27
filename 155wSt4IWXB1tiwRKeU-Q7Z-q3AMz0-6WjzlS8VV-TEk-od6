@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-05-27T14:52:19.132Z"
+      "$t": "2016-05-27T15:24:55.522Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T14:52:19.132Z"
+          "$t": "2016-05-27T15:24:55.522Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -74,10 +74,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$dfa": {
-          "$t": ""
+          "$t": "Sunday"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes, dfa: Sunday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -114,7 +114,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T14:52:19.132Z"
+          "$t": "2016-05-27T15:24:55.522Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -127,10 +127,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$dfa": {
-          "$t": ""
+          "$t": "Monday"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes, dfa: Monday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -167,7 +167,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T14:52:19.132Z"
+          "$t": "2016-05-27T15:24:55.522Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -180,10 +180,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$dfa": {
-          "$t": ""
+          "$t": "Tuesday"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes", 
+          "$t": "time: 10:00, candidate: flores, description: Lucy Flores (NV-4), 10am - 12pm ET, candidatename: Lucy Flores (NV-4), candidateimage: https://evcnoticias.files.wordpress.com/2015/04/lucy-floress.jpg?w=1024, pccc: yes, dfa: Tuesday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -220,7 +220,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-05-27T14:52:19.132Z"
+          "$t": "2016-05-27T15:24:55.522Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -233,10 +233,10 @@ Tabletop.singleton.loadSheet({
           "type": "text"
         }, 
         "gsx$dfa": {
-          "$t": ""
+          "$t": "Sunday"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes", 
+          "$t": "time: 10:00, candidate: teachout, description: Zephyr Teachout (NY-19), 10am -12pm ET, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dfa: Sunday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
