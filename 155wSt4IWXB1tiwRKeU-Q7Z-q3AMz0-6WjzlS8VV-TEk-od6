@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-05T18:19:05.904Z"
+      "$t": "2016-06-05T19:18:58.983Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,63 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T18:19:05.904Z"
+          "$t": "2016-06-05T19:18:58.983Z"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "gsx$time": {
+          "$t": "19:30"
+        }, 
+        "title": {
+          "$t": "2016-06-08", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": "Wednesday"
+        }, 
+        "gsx$color": {
+          "$t": "cornsilk"
+        }, 
+        "content": {
+          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04) 7:30pm - 8:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Wednesday, color: cornsilk", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-08"
+        }, 
+        "gsx$candidate": {
+          "$t": "flores"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+        }, 
+        "gsx$description": {
+          "$t": "Lucy Flores (NV-04) 7:30pm - 8:00pm Eastern"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2016-06-05T19:18:58.983Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -88,7 +144,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -100,7 +156,7 @@ Tabletop.singleton.loadSheet({
           "$t": "flores"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
         "gsx$candidateimage": {
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
@@ -117,7 +173,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T18:19:05.904Z"
+          "$t": "2016-06-05T19:18:58.983Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -144,7 +200,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -156,7 +212,7 @@ Tabletop.singleton.loadSheet({
           "$t": "flores"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$candidateimage": {
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
@@ -173,7 +229,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T18:19:05.904Z"
+          "$t": "2016-06-05T19:18:58.983Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -200,7 +256,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -212,7 +268,7 @@ Tabletop.singleton.loadSheet({
           "$t": "flores"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$candidateimage": {
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
@@ -229,7 +285,63 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T18:19:05.904Z"
+          "$t": "2016-06-05T19:18:58.983Z"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "gsx$time": {
+          "$t": "19:30"
+        }, 
+        "title": {
+          "$t": "2016-06-13", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": "Monday"
+        }, 
+        "gsx$color": {
+          "$t": "cornsilk"
+        }, 
+        "content": {
+          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-13"
+        }, 
+        "gsx$candidate": {
+          "$t": "flores"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+        }, 
+        "gsx$description": {
+          "$t": "Lucy Flores (NV-04)  7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION)"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "updated": {
+          "$t": "2016-06-05T19:18:58.983Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -256,7 +368,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -268,7 +380,7 @@ Tabletop.singleton.loadSheet({
           "$t": "flores"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
         }, 
         "gsx$candidateimage": {
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
@@ -279,7 +391,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "4"
+      "$t": "6"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
