@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-01T21:48:55.696Z"
+      "$t": "2016-06-05T15:03:56.105Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,26 +61,26 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-01T21:48:55.696Z"
+          "$t": "2016-06-05T15:03:56.105Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": "10:00"
+          "$t": "19:30"
         }, 
         "title": {
-          "$t": "2016-06-12", 
+          "$t": "2016-06-08", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": "Sunday"
+          "$t": "Wednesday"
         }, 
         "gsx$color": {
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: DUMMY SHIFT, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Sunday, color: cornsilk", 
+          "$t": "time: 19:30, candidate: flores, description: 7:30pm - 9:30pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Wednesday, color: cornsilk", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -94,7 +94,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2016-06-12"
+          "$t": "2016-06-08"
         }, 
         "gsx$candidate": {
           "$t": "flores"
@@ -106,7 +106,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
         }, 
         "gsx$description": {
-          "$t": "DUMMY SHIFT"
+          "$t": "7:30pm - 9:30pm Eastern"
         }
       }, 
       {
@@ -117,13 +117,13 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-01T21:48:55.696Z"
+          "$t": "2016-06-05T15:03:56.105Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": "10:00"
+          "$t": "19:30"
         }, 
         "title": {
           "$t": "2016-06-13", 
@@ -136,7 +136,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 10:00, candidate: flores, description: DUMMY SHIFT, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk", 
+          "$t": "time: 19:30, candidate: flores, description: 7:30pm - 9:30pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -162,124 +162,12 @@ Tabletop.singleton.loadSheet({
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
         }, 
         "gsx$description": {
-          "$t": "DUMMY SHIFT"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2016-06-01T21:48:55.696Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "10:00"
-        }, 
-        "title": {
-          "$t": "2016-06-14", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Tuesday"
-        }, 
-        "gsx$color": {
-          "$t": "cornsilk"
-        }, 
-        "content": {
-          "$t": "time: 10:00, candidate: flores, description: DUMMY SHIFT, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Lucy Flores (NV-4)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-14"
-        }, 
-        "gsx$candidate": {
-          "$t": "flores"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
-        }, 
-        "gsx$description": {
-          "$t": "DUMMY SHIFT"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "updated": {
-          "$t": "2016-06-01T21:48:55.696Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "10:00"
-        }, 
-        "title": {
-          "$t": "2016-06-19", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Sunday"
-        }, 
-        "gsx$color": {
-          "$t": "rgba(124, 138, 218, 0.36)"
-        }, 
-        "content": {
-          "$t": "time: 10:00, candidate: teachout, description: DUMMY SHIFT, candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dayofweek: Sunday, color: rgba(124, 138, 218, 0.36)", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Zephyr Teachout (NY-19)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-19"
-        }, 
-        "gsx$candidate": {
-          "$t": "teachout"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg"
-        }, 
-        "gsx$description": {
-          "$t": "DUMMY SHIFT"
+          "$t": "7:30pm - 9:30pm Eastern"
         }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "4"
+      "$t": "2"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
