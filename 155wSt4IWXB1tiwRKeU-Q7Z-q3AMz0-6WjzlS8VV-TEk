@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2016-06-05T19:18:58.983Z"
+      "$t": "2016-06-08T22:43:52.002Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T19:18:58.983Z"
+          "$t": "2016-06-08T22:43:52.002Z"
         }, 
         "title": {
           "$t": "shifts", 
@@ -80,7 +80,7 @@ Tabletop.singleton.loadSheets({
           "$t": "26"
         }, 
         "gs$rowCount": {
-          "$t": "820"
+          "$t": "818"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/worksheets/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/public/basic/od6"
@@ -94,7 +94,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-06-05T19:18:58.983Z"
+          "$t": "2016-06-08T22:43:52.002Z"
         }, 
         "title": {
           "$t": "candidate data", 
