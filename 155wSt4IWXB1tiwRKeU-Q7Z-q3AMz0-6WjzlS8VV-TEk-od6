@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-09T22:09:46.175Z"
+      "$t": "2016-06-09T22:10:13.633Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,7 +61,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-09T22:09:46.175Z"
+          "$t": "2016-06-09T22:10:13.633Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -117,7 +117,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-09T22:09:46.175Z"
+          "$t": "2016-06-09T22:10:13.633Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -136,7 +136,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 15:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SUNDAY (Time TBD), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Sunday, color: cornsilk", 
+          "$t": "time: 15:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SUNDAY 3:00pm - 5:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Sunday, color: cornsilk", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -162,7 +162,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
         }, 
         "gsx$description": {
-          "$t": "Lucy Flores (NV-04) GOTV SUNDAY (Time TBD)"
+          "$t": "Lucy Flores (NV-04) GOTV SUNDAY 3:00pm - 5:00pm Eastern"
         }
       }, 
       {
@@ -173,7 +173,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-09T22:09:46.175Z"
+          "$t": "2016-06-09T22:10:13.633Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -229,7 +229,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "updated": {
-          "$t": "2016-06-09T22:09:46.175Z"
+          "$t": "2016-06-09T22:10:13.633Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
