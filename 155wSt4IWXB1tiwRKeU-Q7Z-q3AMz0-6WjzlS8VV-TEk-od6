@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-09T22:10:13.633Z"
+      "$t": "2016-06-10T21:14:59.207Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -60,8 +60,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$displaytime": {
+          "$t": "GOTV SATURDAY 1:00pm - 3:00pm Eastern"
+        }, 
         "updated": {
-          "$t": "2016-06-09T22:10:13.633Z"
+          "$t": "2016-06-10T21:14:59.207Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -80,7 +83,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 13:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SATURDAY 1:00pm - 3:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Saturday, color: cornsilk", 
+          "$t": "time: 13:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SATURDAY 1:00pm - 3:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Saturday, color: cornsilk, displaytime: GOTV SATURDAY 1:00pm - 3:00pm Eastern", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -116,8 +119,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$displaytime": {
+          "$t": "GOTV SUNDAY 3:00pm - 5:00pm Eastern"
+        }, 
         "updated": {
-          "$t": "2016-06-09T22:10:13.633Z"
+          "$t": "2016-06-10T21:14:59.207Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -136,7 +142,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 15:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SUNDAY 3:00pm - 5:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Sunday, color: cornsilk", 
+          "$t": "time: 15:00, candidate: flores, description: Lucy Flores (NV-04) GOTV SUNDAY 3:00pm - 5:00pm Eastern, candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Sunday, color: cornsilk, displaytime: GOTV SUNDAY 3:00pm - 5:00pm Eastern", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -172,8 +178,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$displaytime": {
+          "$t": "7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION)"
+        }, 
         "updated": {
-          "$t": "2016-06-09T22:10:13.633Z"
+          "$t": "2016-06-10T21:14:59.207Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -192,7 +201,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk", 
+          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk, displaytime: 7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -228,8 +237,11 @@ Tabletop.singleton.loadSheet({
             "scheme": "http://schemas.google.com/spreadsheets/2006"
           }
         ], 
+        "gsx$displaytime": {
+          "$t": "7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
+        }, 
         "updated": {
-          "$t": "2016-06-09T22:10:13.633Z"
+          "$t": "2016-06-10T21:14:59.207Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -248,7 +260,7 @@ Tabletop.singleton.loadSheet({
           "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk", 
+          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
