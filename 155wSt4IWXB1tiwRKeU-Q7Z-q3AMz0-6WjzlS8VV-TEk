@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheets({
       }
     ], 
     "updated": {
-      "$t": "2016-06-12T15:22:56.842Z"
+      "$t": "2016-06-12T20:44:37.707Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "title": {
@@ -39,7 +39,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-06-12T15:22:56.842Z"
+          "$t": "2016-06-12T20:44:37.707Z"
         }, 
         "title": {
           "$t": "shifts", 
@@ -94,7 +94,7 @@ Tabletop.singleton.loadSheets({
           }
         ], 
         "updated": {
-          "$t": "2016-06-12T15:22:56.842Z"
+          "$t": "2016-06-12T20:44:37.707Z"
         }, 
         "title": {
           "$t": "candidate data", 
