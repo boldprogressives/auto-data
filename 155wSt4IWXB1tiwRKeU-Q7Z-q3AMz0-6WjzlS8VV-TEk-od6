@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-12T20:49:38.044Z"
+      "$t": "2016-06-12T20:52:53.211Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "GOTV SUNDAY 3:00pm - 5:00pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:49:38.044Z"
+          "$t": "2016-06-12T20:52:53.211Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -123,7 +123,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:49:38.044Z"
+          "$t": "2016-06-12T20:52:53.211Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -182,7 +182,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:49:38.044Z"
+          "$t": "2016-06-12T20:52:53.211Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -238,33 +238,33 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$displaytime": {
-          "$t": "7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
+          "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:49:38.044Z"
+          "$t": "2016-06-12T20:52:53.211Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": "19:30"
+          "$t": "12:00"
         }, 
         "title": {
-          "$t": "2016-06-13", 
+          "$t": "2016-06-14", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": "Monday"
+          "$t": "Tuesday"
         }, 
         "gsx$color": {
-          "$t": "#N/A"
+          "$t": "cornsilk"
         }, 
         "content": {
-          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION), candidatename: #N/A, candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: #N/A, displaytime: 7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)", 
+          "$t": "time: 12:00, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (ELECTION DAY), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": "#N/A"
+          "$t": "Lucy Flores (NV-4)"
         }, 
         "link": [
           {
@@ -274,7 +274,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2016-06-13"
+          "$t": "2016-06-14"
         }, 
         "gsx$candidate": {
           "$t": "flores"
@@ -286,7 +286,7 @@ Tabletop.singleton.loadSheet({
           "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
         }, 
         "gsx$description": {
-          "$t": "Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
+          "$t": "Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }
       }
     ], 
