@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-12T20:44:37.707Z"
+      "$t": "2016-06-12T20:49:38.044Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "GOTV SUNDAY 3:00pm - 5:00pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:44:37.707Z"
+          "$t": "2016-06-12T20:49:38.044Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -123,7 +123,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 8:30pm Eastern (DAY BEFORE ELECTION)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:44:37.707Z"
+          "$t": "2016-06-12T20:49:38.044Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -182,7 +182,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:44:37.707Z"
+          "$t": "2016-06-12T20:49:38.044Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -238,33 +238,33 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$displaytime": {
-          "$t": ""
+          "$t": "7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
         }, 
         "updated": {
-          "$t": "2016-06-12T20:44:37.707Z"
+          "$t": "2016-06-12T20:49:38.044Z"
         }, 
         "gsx$pccc": {
-          "$t": ""
+          "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": "12:00"
+          "$t": "19:30"
         }, 
         "title": {
-          "$t": "2016-06-14", 
+          "$t": "2016-06-13", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Monday"
         }, 
         "gsx$color": {
-          "$t": ""
+          "$t": "#N/A"
         }, 
         "content": {
-          "$t": "time: 12:00, candidate: flores, description: Lucy Flores (VV-04) 12:00 noon - 2:00pm Eastern ", 
+          "$t": "time: 19:30, candidate: flores, description: Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION), candidatename: #N/A, candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Monday, color: #N/A, displaytime: 7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": ""
+          "$t": "#N/A"
         }, 
         "link": [
           {
@@ -274,7 +274,7 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "2016-06-14"
+          "$t": "2016-06-13"
         }, 
         "gsx$candidate": {
           "$t": "flores"
@@ -283,10 +283,10 @@ Tabletop.singleton.loadSheet({
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$candidateimage": {
-          "$t": ""
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
         }, 
         "gsx$description": {
-          "$t": "Lucy Flores (VV-04) 12:00 noon - 2:00pm Eastern "
+          "$t": "Lucy Flores (NV-04)  7:30pm - 9:30pm Eastern (DAY BEFORE ELECTION)"
         }
       }
     ], 
