@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-15T11:46:45.522Z"
+      "$t": "2016-06-15T13:14:42.045Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-15T11:46:45.522Z"
+          "$t": "2016-06-15T13:14:42.045Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -80,14 +80,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Tuesday"
         }, 
         "gsx$color": {
-          "$t": "cornsilk"
+          "$t": "rgba(124, 138, 218, 0.33)"
         }, 
         "content": {
-          "$t": "time: 18:30, candidate: flores, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
+          "$t": "time: 18:30, candidate: teachout, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.33), displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": "Lucy Flores (NV-4)"
+          "$t": "Zephyr Teachout (NY-19)"
         }, 
         "link": [
           {
@@ -100,13 +100,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-06-14"
         }, 
         "gsx$candidate": {
-          "$t": "flores"
+          "$t": "teachout"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$candidateimage": {
-          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg"
         }, 
         "gsx$description": {
           "$t": "Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
@@ -123,7 +123,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-15T11:46:45.522Z"
+          "$t": "2016-06-15T13:14:42.045Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -182,7 +182,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-15T11:46:45.522Z"
+          "$t": "2016-06-15T13:14:42.045Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -198,14 +198,14 @@ Tabletop.singleton.loadSheet({
           "$t": "Tuesday"
         }, 
         "gsx$color": {
-          "$t": "cornsilk"
+          "$t": "rgba(124, 138, 218, 0.33)"
         }, 
         "content": {
-          "$t": "time: 22:30, candidate: flores, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
+          "$t": "time: 22:30, candidate: teachout, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.33), displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": "Lucy Flores (NV-4)"
+          "$t": "Zephyr Teachout (NY-19)"
         }, 
         "link": [
           {
@@ -218,13 +218,13 @@ Tabletop.singleton.loadSheet({
           "$t": "2016-06-14"
         }, 
         "gsx$candidate": {
-          "$t": "flores"
+          "$t": "teachout"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$candidateimage": {
-          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2014/08/teachout_cand_page.jpg"
         }, 
         "gsx$description": {
           "$t": "Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
