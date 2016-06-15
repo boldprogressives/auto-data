@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-14T16:00:48.780Z"
+      "$t": "2016-06-15T11:46:45.522Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-14T16:00:48.780Z"
+          "$t": "2016-06-15T11:46:45.522Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -111,10 +111,128 @@ Tabletop.singleton.loadSheet({
         "gsx$description": {
           "$t": "Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
         }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
+        }, 
+        "updated": {
+          "$t": "2016-06-15T11:46:45.522Z"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "gsx$time": {
+          "$t": "20:30"
+        }, 
+        "title": {
+          "$t": "2016-06-14", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": "Tuesday"
+        }, 
+        "gsx$color": {
+          "$t": "cornsilk"
+        }, 
+        "content": {
+          "$t": "time: 20:30, candidate: flores, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-14"
+        }, 
+        "gsx$candidate": {
+          "$t": "flores"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+        }, 
+        "gsx$description": {
+          "$t": "Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
+        }, 
+        "updated": {
+          "$t": "2016-06-15T11:46:45.522Z"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "gsx$time": {
+          "$t": "22:30"
+        }, 
+        "title": {
+          "$t": "2016-06-14", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": "Tuesday"
+        }, 
+        "gsx$color": {
+          "$t": "cornsilk"
+        }, 
+        "content": {
+          "$t": "time: 22:30, candidate: flores, description: Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Lucy Flores (NV-4), candidateimage: http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png, pccc: yes, dayofweek: Tuesday, color: cornsilk, displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Lucy Flores (NV-4)"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-14"
+        }, 
+        "gsx$candidate": {
+          "$t": "flores"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "http://s3.amazonaws.com/s3.boldprogressives.org/wp-content/uploads/2016/04/WEBSITE_325x325_FLORES.png"
+        }, 
+        "gsx$description": {
+          "$t": "Lucy Flores (NV-04)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
+        }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "1"
+      "$t": "3"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
