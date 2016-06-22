@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-15T13:17:41.534Z"
+      "$t": "2016-06-22T13:19:55.792Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -52,8 +52,69 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": "7:30pm - 9:30pm Eastern (ELECTION DAY)"
+        }, 
+        "updated": {
+          "$t": "2016-06-22T13:19:55.792Z"
+        }, 
+        "gsx$pccc": {
+          "$t": "yes"
+        }, 
+        "gsx$time": {
+          "$t": "18:30"
+        }, 
+        "title": {
+          "$t": "2016-06-24", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": "Friday"
+        }, 
+        "gsx$color": {
+          "$t": "rgba(124, 138, 218, 0.36)"
+        }, 
+        "content": {
+          "$t": "time: 18:30, candidate: teachout, description: Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: #REF!, pccc: yes, dayofweek: Friday, color: rgba(124, 138, 218, 0.36), displaytime: 7:30pm - 9:30pm Eastern (ELECTION DAY)", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Zephyr Teachout (NY-19)"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "2016-06-24"
+        }, 
+        "gsx$candidate": {
+          "$t": "teachout"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+        }, 
+        "gsx$candidateimage": {
+          "$t": "#REF!"
+        }, 
+        "gsx$description": {
+          "$t": "Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern"
+        }
+      }
+    ], 
     "openSearch$totalResults": {
-      "$t": "0"
+      "$t": "1"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
