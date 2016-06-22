@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-22T14:00:11.173Z"
+      "$t": "2016-06-22T14:00:23.812Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "Noon - 2pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -123,7 +123,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2pm - 4pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -182,7 +182,7 @@ Tabletop.singleton.loadSheet({
           "$t": "2pm - 4pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -241,7 +241,7 @@ Tabletop.singleton.loadSheet({
           "$t": "4pm - 6pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -297,10 +297,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$displaytime": {
-          "$t": "6pm - 9pm Eastern"
+          "$t": "6pm - 7:30pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -319,7 +319,7 @@ Tabletop.singleton.loadSheet({
           "$t": "rgba(124, 138, 218, 0.36)"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6pm - 7:30pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Monday, color: rgba(124, 138, 218, 0.36), displaytime: 6pm - 9pm Eastern", 
+          "$t": "time: 18:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6pm - 7:30pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Monday, color: rgba(124, 138, 218, 0.36), displaytime: 6pm - 7:30pm Eastern", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -356,10 +356,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$displaytime": {
-          "$t": "6pm - 9pm Eastern"
+          "$t": "7:30pm - 9pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -378,11 +378,11 @@ Tabletop.singleton.loadSheet({
           "$t": "rgba(124, 138, 218, 0.36)"
         }, 
         "content": {
-          "$t": "time: 19:30, candidate: teachout, description: Zephyr Teachout (NY-19)  7:30pm - 9pm Eastern, candidatename: #N/A, candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Monday, color: rgba(124, 138, 218, 0.36), displaytime: 6pm - 9pm Eastern", 
+          "$t": "time: 19:30, candidate: teachout, description: Zephyr Teachout (NY-19)  7:30pm - 9pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Monday, color: rgba(124, 138, 218, 0.36), displaytime: 7:30pm - 9pm Eastern", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": "#N/A"
+          "$t": "Zephyr Teachout (NY-19)"
         }, 
         "link": [
           {
@@ -418,7 +418,7 @@ Tabletop.singleton.loadSheet({
           "$t": "4pm - 6pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -477,7 +477,7 @@ Tabletop.singleton.loadSheet({
           "$t": "6pm - 8pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:11.173Z"
+          "$t": "2016-06-22T14:00:23.812Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
