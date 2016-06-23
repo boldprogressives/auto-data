@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-22T14:00:23.812Z"
+      "$t": "2016-06-23T14:17:41.654Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -61,246 +61,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$displaytime": {
-          "$t": "Noon - 2pm Eastern"
-        }, 
-        "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "12:00"
-        }, 
-        "title": {
-          "$t": "2016-06-25", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Saturday"
-        }, 
-        "gsx$color": {
-          "$t": "rgba(124, 138, 218, 0.36)"
-        }, 
-        "content": {
-          "$t": "time: 12:00, candidate: teachout, description: Zephyr Teachout (NY-19) Noon - 2pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Saturday, color: rgba(124, 138, 218, 0.36), displaytime: Noon - 2pm Eastern", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Zephyr Teachout (NY-19)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-25"
-        }, 
-        "gsx$candidate": {
-          "$t": "teachout"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
-        }, 
-        "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19) Noon - 2pm Eastern"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$displaytime": {
-          "$t": "2pm - 4pm Eastern"
-        }, 
-        "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2016-06-25", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Saturday"
-        }, 
-        "gsx$color": {
-          "$t": "rgba(124, 138, 218, 0.36)"
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: teachout, description: Zephyr Teachout (NY-19)  2pm - 4pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Saturday, color: rgba(124, 138, 218, 0.36), displaytime: 2pm - 4pm Eastern", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Zephyr Teachout (NY-19)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-25"
-        }, 
-        "gsx$candidate": {
-          "$t": "teachout"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
-        }, 
-        "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19)  2pm - 4pm Eastern"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$displaytime": {
-          "$t": "2pm - 4pm Eastern"
-        }, 
-        "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "14:00"
-        }, 
-        "title": {
-          "$t": "2016-06-26", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Sunday"
-        }, 
-        "gsx$color": {
-          "$t": "rgba(124, 138, 218, 0.36)"
-        }, 
-        "content": {
-          "$t": "time: 14:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Sunday, color: rgba(124, 138, 218, 0.36), displaytime: 2pm - 4pm Eastern", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Zephyr Teachout (NY-19)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-26"
-        }, 
-        "gsx$candidate": {
-          "$t": "teachout"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
-        }, 
-        "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$displaytime": {
-          "$t": "4pm - 6pm Eastern"
-        }, 
-        "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
-        }, 
-        "gsx$pccc": {
-          "$t": "yes"
-        }, 
-        "gsx$time": {
-          "$t": "16:00"
-        }, 
-        "title": {
-          "$t": "2016-06-26", 
-          "type": "text"
-        }, 
-        "gsx$dayofweek": {
-          "$t": "Sunday"
-        }, 
-        "gsx$color": {
-          "$t": "rgba(124, 138, 218, 0.36)"
-        }, 
-        "content": {
-          "$t": "time: 16:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern, candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Sunday, color: rgba(124, 138, 218, 0.36), displaytime: 4pm - 6pm Eastern", 
-          "type": "text"
-        }, 
-        "gsx$candidatename": {
-          "$t": "Zephyr Teachout (NY-19)"
-        }, 
-        "link": [
-          {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
-            "type": "application/atom+xml", 
-            "rel": "self"
-          }
-        ], 
-        "gsx$date": {
-          "$t": "2016-06-26"
-        }, 
-        "gsx$candidate": {
-          "$t": "teachout"
-        }, 
-        "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
-        }, 
-        "gsx$candidateimage": {
-          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
-        }, 
-        "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern"
-        }
-      }, 
-      {
-        "category": [
-          {
-            "term": "http://schemas.google.com/spreadsheets/2006#list", 
-            "scheme": "http://schemas.google.com/spreadsheets/2006"
-          }
-        ], 
-        "gsx$displaytime": {
           "$t": "6pm - 7:30pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
+          "$t": "2016-06-23T14:17:41.654Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -327,7 +91,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -339,7 +103,7 @@ Tabletop.singleton.loadSheet({
           "$t": "teachout"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$candidateimage": {
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
@@ -359,7 +123,7 @@ Tabletop.singleton.loadSheet({
           "$t": "7:30pm - 9pm Eastern"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
+          "$t": "2016-06-23T14:17:41.654Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -386,7 +150,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -398,7 +162,7 @@ Tabletop.singleton.loadSheet({
           "$t": "teachout"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
         "gsx$candidateimage": {
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
@@ -418,7 +182,7 @@ Tabletop.singleton.loadSheet({
           "$t": "4pm - 6pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
+          "$t": "2016-06-23T14:17:41.654Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -437,7 +201,7 @@ Tabletop.singleton.loadSheet({
           "$t": "rgba(124, 138, 218, 0.36)"
         }, 
         "content": {
-          "$t": "time: 16:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.36), displaytime: 4pm - 6pm Eastern (ELECTION DAY)", 
+          "$t": "time: 16:00, candidate: teachout, description: Zephyr Teachout (NY-19)  4:00pm - 6:00pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.36), displaytime: 4pm - 6pm Eastern (ELECTION DAY)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -445,7 +209,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -457,13 +221,13 @@ Tabletop.singleton.loadSheet({
           "$t": "teachout"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$candidateimage": {
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
         }, 
         "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
+          "$t": "Zephyr Teachout (NY-19)  4:00pm - 6:00pm Eastern (ELECTION DAY)"
         }
       }, 
       {
@@ -477,7 +241,7 @@ Tabletop.singleton.loadSheet({
           "$t": "6pm - 8pm Eastern (ELECTION DAY)"
         }, 
         "updated": {
-          "$t": "2016-06-22T14:00:23.812Z"
+          "$t": "2016-06-23T14:17:41.654Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -496,7 +260,7 @@ Tabletop.singleton.loadSheet({
           "$t": "rgba(124, 138, 218, 0.36)"
         }, 
         "content": {
-          "$t": "time: 18:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.36), displaytime: 6pm - 8pm Eastern (ELECTION DAY)", 
+          "$t": "time: 18:00, candidate: teachout, description: Zephyr Teachout (NY-19)  6:00pm - 7:30pm Eastern (ELECTION DAY), candidatename: Zephyr Teachout (NY-19), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png, pccc: yes, dayofweek: Tuesday, color: rgba(124, 138, 218, 0.36), displaytime: 6pm - 8pm Eastern (ELECTION DAY)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -504,7 +268,7 @@ Tabletop.singleton.loadSheet({
         }, 
         "link": [
           {
-            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
             "type": "application/atom+xml", 
             "rel": "self"
           }
@@ -516,18 +280,18 @@ Tabletop.singleton.loadSheet({
           "$t": "teachout"
         }, 
         "id": {
-          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$candidateimage": {
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/zephyr-warrenwing.png"
         }, 
         "gsx$description": {
-          "$t": "Zephyr Teachout (NY-19)  6:30pm - 8:30pm Eastern (ELECTION DAY)"
+          "$t": "Zephyr Teachout (NY-19)  6:00pm - 7:30pm Eastern (ELECTION DAY)"
         }
       }
     ], 
     "openSearch$totalResults": {
-      "$t": "8"
+      "$t": "4"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
