@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-07-13T20:52:46.384Z"
+      "$t": "2016-07-13T21:04:58.387Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -52,8 +52,659 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Thursday, July 21", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Thursday July 21 - 8-10pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "Thursday, July 21"
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Thursday July 21 - 8-10pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 3", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Monday July 25 - 8-10pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Monday July 25 - 8-10pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 4", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Thursday July 28 - 8-10pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Thursday July 28 - 8-10pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 5", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Saturday July 30 - 3-5pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Saturday July 30 - 3-5pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 6", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Saturday July 30 - 5-7pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Saturday July 30 - 5-7pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 7", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Sunday July 31 - 3-7pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Sunday July 31 - 3-7pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 8", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Sunday July 31 - 3-5pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Sunday July 31 - 3-5pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 9", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Sunday July 31 - 5-7pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Sunday July 31 - 5-7pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 10", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Monday August 1 - 8-10pm EST", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Monday August 1 - 8-10pm EST"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 11", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Tuesday August 2 - 5-6:30pm EST (ELECTION DAY)", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Tuesday August 2 - 5-6:30pm EST (ELECTION DAY)"
+        }
+      }, 
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T21:04:58.387Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": ""
+        }, 
+        "title": {
+          "$t": "Row: 12", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "description: Tuesday August 2 - 6:30-8pm EST (ELECTION DAY)", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": ""
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": ""
+        }, 
+        "gsx$candidate": {
+          "$t": ""
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Tuesday August 2 - 6:30-8pm EST (ELECTION DAY)"
+        }
+      }
+    ], 
     "openSearch$totalResults": {
-      "$t": "0"
+      "$t": "11"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
