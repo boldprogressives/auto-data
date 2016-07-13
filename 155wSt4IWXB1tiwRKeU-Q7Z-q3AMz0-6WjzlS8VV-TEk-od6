@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-07-13T21:04:58.387Z"
+      "$t": "2016-07-13T21:09:50.529Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,30 +64,30 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
-          "$t": ""
+          "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "20:00"
         }, 
         "title": {
-          "$t": "Thursday, July 21", 
+          "$t": "2016-07-21", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Thursday"
         }, 
         "gsx$color": {
-          "$t": ""
+          "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "description: Thursday July 21 - 8-10pm EST", 
+          "$t": "time: 20:00, candidate: jayapal, description: Thursday July 21 - 8-10pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Thursday, color: rgb(108, 113, 87)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": ""
+          "$t": "Pramila Jayapal (WA-7)"
         }, 
         "link": [
           {
@@ -97,16 +97,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": "Thursday, July 21"
+          "$t": "2016-07-21"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
         }, 
         "gsx$candidateimage": {
-          "$t": ""
+          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
           "$t": "Thursday July 21 - 8-10pm EST"
@@ -123,30 +123,30 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
-          "$t": ""
+          "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "20:00"
         }, 
         "title": {
-          "$t": "Row: 3", 
+          "$t": "2016-07-25", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Monday"
         }, 
         "gsx$color": {
-          "$t": ""
+          "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "description: Monday July 25 - 8-10pm EST", 
+          "$t": "time: 20:00, candidate: jayapal, description: Monday July 25 - 8-10pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Monday, color: rgb(108, 113, 87)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": ""
+          "$t": "Pramila Jayapal (WA-7)"
         }, 
         "link": [
           {
@@ -156,16 +156,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-25"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cpzh4"
         }, 
         "gsx$candidateimage": {
-          "$t": ""
+          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
           "$t": "Monday July 25 - 8-10pm EST"
@@ -182,30 +182,30 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
-          "$t": ""
+          "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "20:00"
         }, 
         "title": {
-          "$t": "Row: 4", 
+          "$t": "2016-07-28", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Thursday"
         }, 
         "gsx$color": {
-          "$t": ""
+          "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "description: Thursday July 28 - 8-10pm EST", 
+          "$t": "time: 20:00, candidate: jayapal, description: Thursday July 28 - 8-10pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Thursday, color: rgb(108, 113, 87)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": ""
+          "$t": "Pramila Jayapal (WA-7)"
         }, 
         "link": [
           {
@@ -215,16 +215,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-28"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cre1l"
         }, 
         "gsx$candidateimage": {
-          "$t": ""
+          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
           "$t": "Thursday July 28 - 8-10pm EST"
@@ -241,30 +241,30 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
-          "$t": ""
+          "$t": "yes"
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "15:00"
         }, 
         "title": {
-          "$t": "Row: 5", 
+          "$t": "2016-07-30", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Saturday"
         }, 
         "gsx$color": {
-          "$t": ""
+          "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "description: Saturday July 30 - 3-5pm EST", 
+          "$t": "time: 15:00, candidate: jayapal, description: Saturday July 30 - 3-5pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Saturday, color: rgb(108, 113, 87)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
-          "$t": ""
+          "$t": "Pramila Jayapal (WA-7)"
         }, 
         "link": [
           {
@@ -274,16 +274,16 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-30"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/chk2m"
         }, 
         "gsx$candidateimage": {
-          "$t": ""
+          "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
           "$t": "Saturday July 30 - 3-5pm EST"
@@ -300,26 +300,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "17:00"
         }, 
         "title": {
-          "$t": "Row: 6", 
+          "$t": "2016-07-30", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Saturday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Saturday July 30 - 5-7pm EST", 
+          "$t": "time: 17:00, candidate: jayapal, description: Saturday July 30 - 5-7pm EST, dayofweek: Saturday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -333,10 +333,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-30"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ciyn3"
@@ -359,26 +359,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "15:00"
         }, 
         "title": {
-          "$t": "Row: 7", 
+          "$t": "2016-07-31", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Sunday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Sunday July 31 - 3-7pm EST", 
+          "$t": "time: 15:00, candidate: jayapal, description: Sunday July 31 - 3-7pm EST, dayofweek: Sunday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -392,10 +392,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-31"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/ckd7g"
@@ -418,26 +418,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "15:00"
         }, 
         "title": {
-          "$t": "Row: 8", 
+          "$t": "2016-07-31", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Sunday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Sunday July 31 - 3-5pm EST", 
+          "$t": "time: 15:00, candidate: jayapal, description: Sunday July 31 - 3-5pm EST, dayofweek: Sunday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -451,10 +451,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-31"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/clrrx"
@@ -477,26 +477,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "17:00"
         }, 
         "title": {
-          "$t": "Row: 9", 
+          "$t": "2016-07-31", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Sunday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Sunday July 31 - 5-7pm EST", 
+          "$t": "time: 17:00, candidate: jayapal, description: Sunday July 31 - 5-7pm EST, dayofweek: Sunday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -510,10 +510,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-07-31"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cyevm"
@@ -536,26 +536,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "20:00"
         }, 
         "title": {
-          "$t": "Row: 10", 
+          "$t": "2016-08-01", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Monday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Monday August 1 - 8-10pm EST", 
+          "$t": "time: 20:00, candidate: jayapal, description: Monday August 1 - 8-10pm EST, dayofweek: Monday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -569,10 +569,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-08-01"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cztg3"
@@ -595,26 +595,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "17:00"
         }, 
         "title": {
-          "$t": "Row: 11", 
+          "$t": "2016-08-02", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Tuesday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Tuesday August 2 - 5-6:30pm EST (ELECTION DAY)", 
+          "$t": "time: 17:00, candidate: jayapal, description: Tuesday August 2 - 5-6:30pm EST (ELECTION DAY), dayofweek: Tuesday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -628,10 +628,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-08-02"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d180g"
@@ -654,26 +654,26 @@ Tabletop.singleton.loadSheet({
           "$t": ""
         }, 
         "updated": {
-          "$t": "2016-07-13T21:04:58.387Z"
+          "$t": "2016-07-13T21:09:50.529Z"
         }, 
         "gsx$pccc": {
           "$t": ""
         }, 
         "gsx$time": {
-          "$t": ""
+          "$t": "18:30"
         }, 
         "title": {
-          "$t": "Row: 12", 
+          "$t": "2016-08-02", 
           "type": "text"
         }, 
         "gsx$dayofweek": {
-          "$t": ""
+          "$t": "Tuesday"
         }, 
         "gsx$color": {
           "$t": ""
         }, 
         "content": {
-          "$t": "description: Tuesday August 2 - 6:30-8pm EST (ELECTION DAY)", 
+          "$t": "time: 18:30, candidate: jayapal, description: Tuesday August 2 - 6:30-8pm EST (ELECTION DAY), dayofweek: Tuesday", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -687,10 +687,10 @@ Tabletop.singleton.loadSheet({
           }
         ], 
         "gsx$date": {
-          "$t": ""
+          "$t": "2016-08-02"
         }, 
         "gsx$candidate": {
-          "$t": ""
+          "$t": "jayapal"
         }, 
         "id": {
           "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/d2mkx"
