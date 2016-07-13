@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-06-26T19:11:44.835Z"
+      "$t": "2016-07-13T15:56:42.758Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -52,8 +52,69 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/", 
+    "entry": [
+      {
+        "category": [
+          {
+            "term": "http://schemas.google.com/spreadsheets/2006#list", 
+            "scheme": "http://schemas.google.com/spreadsheets/2006"
+          }
+        ], 
+        "gsx$displaytime": {
+          "$t": ""
+        }, 
+        "updated": {
+          "$t": "2016-07-13T15:56:42.758Z"
+        }, 
+        "gsx$pccc": {
+          "$t": ""
+        }, 
+        "gsx$time": {
+          "$t": "8pm ET"
+        }, 
+        "title": {
+          "$t": "July 21", 
+          "type": "text"
+        }, 
+        "gsx$dayofweek": {
+          "$t": ""
+        }, 
+        "gsx$color": {
+          "$t": ""
+        }, 
+        "content": {
+          "$t": "time: 8pm ET, candidate: jayapal, description: Foo, candidatename: Pramila Jayapal", 
+          "type": "text"
+        }, 
+        "gsx$candidatename": {
+          "$t": "Pramila Jayapal"
+        }, 
+        "link": [
+          {
+            "href": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr", 
+            "type": "application/atom+xml", 
+            "rel": "self"
+          }
+        ], 
+        "gsx$date": {
+          "$t": "July 21"
+        }, 
+        "gsx$candidate": {
+          "$t": "jayapal"
+        }, 
+        "id": {
+          "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values/cokwr"
+        }, 
+        "gsx$candidateimage": {
+          "$t": ""
+        }, 
+        "gsx$description": {
+          "$t": "Foo"
+        }
+      }
+    ], 
     "openSearch$totalResults": {
-      "$t": "0"
+      "$t": "1"
     }, 
     "id": {
       "$t": "https://spreadsheets.google.com/feeds/list/155wSt4IWXB1tiwRKeU-Q7Z-q3AMz0-6WjzlS8VV-TEk/od6/public/values"
