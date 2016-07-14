@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-07-13T23:15:23.450Z"
+      "$t": "2016-07-14T12:35:33.699Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -126,7 +126,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -188,7 +188,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -250,7 +250,7 @@ Tabletop.singleton.loadSheet({
           "$t": "3-5pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -312,7 +312,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-7pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -374,7 +374,7 @@ Tabletop.singleton.loadSheet({
           "$t": "3-5pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -436,7 +436,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-7pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -498,7 +498,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -560,7 +560,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-6:30pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -622,7 +622,7 @@ Tabletop.singleton.loadSheet({
           "$t": "6:30-8pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-13T23:15:23.450Z"
+          "$t": "2016-07-14T12:35:33.699Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
