@@ -8,7 +8,7 @@ Tabletop.singleton.loadSheet({
       }
     ], 
     "updated": {
-      "$t": "2016-07-14T12:35:33.699Z"
+      "$t": "2016-07-14T14:08:19.936Z"
     }, 
     "xmlns": "http://www.w3.org/2005/Atom", 
     "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended", 
@@ -64,7 +64,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -126,7 +126,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -188,7 +188,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -250,7 +250,7 @@ Tabletop.singleton.loadSheet({
           "$t": "3-5pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -312,7 +312,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-7pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -374,7 +374,7 @@ Tabletop.singleton.loadSheet({
           "$t": "3-5pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -436,7 +436,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-7pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -498,7 +498,7 @@ Tabletop.singleton.loadSheet({
           "$t": "8-10pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -560,7 +560,7 @@ Tabletop.singleton.loadSheet({
           "$t": "5-6:30pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -579,7 +579,7 @@ Tabletop.singleton.loadSheet({
           "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "time: 17:00, candidate: jayapal, description: Tuesday August 2 - 5-6:30pm EST (ELECTION DAY), candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Tuesday, color: rgb(108, 113, 87), displaytime: 5-6:30pm EST, lightcolor: rgba(239,249,199,255)", 
+          "$t": "time: 17:00, candidate: jayapal, description: Tuesday August 2 - 5-6:30pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Tuesday, color: rgb(108, 113, 87), displaytime: 5-6:30pm EST, lightcolor: rgba(239,249,199,255)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -608,7 +608,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
-          "$t": "Tuesday August 2 - 5-6:30pm EST (ELECTION DAY)"
+          "$t": "Tuesday August 2 - 5-6:30pm EST"
         }
       }, 
       {
@@ -622,7 +622,7 @@ Tabletop.singleton.loadSheet({
           "$t": "6:30-8pm EST"
         }, 
         "updated": {
-          "$t": "2016-07-14T12:35:33.699Z"
+          "$t": "2016-07-14T14:08:19.936Z"
         }, 
         "gsx$pccc": {
           "$t": "yes"
@@ -641,7 +641,7 @@ Tabletop.singleton.loadSheet({
           "$t": "rgb(108, 113, 87)"
         }, 
         "content": {
-          "$t": "time: 18:30, candidate: jayapal, description: Tuesday August 2 - 6:30-8pm EST (ELECTION DAY), candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Tuesday, color: rgb(108, 113, 87), displaytime: 6:30-8pm EST, lightcolor: rgba(239,249,199,255)", 
+          "$t": "time: 18:30, candidate: jayapal, description: Tuesday August 2 - 6:30-8pm EST, candidatename: Pramila Jayapal (WA-7), candidateimage: https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png, pccc: yes, dayofweek: Tuesday, color: rgb(108, 113, 87), displaytime: 6:30-8pm EST, lightcolor: rgba(239,249,199,255)", 
           "type": "text"
         }, 
         "gsx$candidatename": {
@@ -670,7 +670,7 @@ Tabletop.singleton.loadSheet({
           "$t": "https://s3.amazonaws.com/s3.boldprogressives.org/images/pramila-cotv-left.png"
         }, 
         "gsx$description": {
-          "$t": "Tuesday August 2 - 6:30-8pm EST (ELECTION DAY)"
+          "$t": "Tuesday August 2 - 6:30-8pm EST"
         }
       }
     ], 
